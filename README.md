@@ -1,4 +1,21 @@
 # Forkcast - Smart Restaurant Recommender 👨‍🍳🧑‍🍳
+
+## 👋 About / Role
+
+Personal copy of a collaborative summer project  
+Original repo: [Forkcast-Smart-Restaurant-Recommender](https://github.com/Justetete/Forkcast-Smart-Restaurant-Recommender)
+
+Role: Data Lead  
+Responsible for data strategy and modeling direction across the project, including:
+- Problem formulation and project direction
+- Data sourcing, cleaning, and feature engineering
+- Machine learning model development and optimization
+- Contribution to feature design and UI/UX improvements
+
+Shared with permission from the original authors.
+
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,tailwindcss,vite,npm,python,flask,postgres,git,postman,figma,docker&theme=light" />
