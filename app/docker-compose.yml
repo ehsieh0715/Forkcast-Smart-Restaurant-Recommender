@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  flask-backend:
+      build:
+        context: ./Backend
+      container_name: flask-backend
+      env_file:
+        - .env
+      ports:
+        - "5000:5000"
+      volumes:
+      - ../data:/app/data
+
+  react-frontend:
+    build:
+      context: ./Frontend
+    container_name: react-frontend
+    env_file:
+      - ./Frontend/.env.production
+    ports:
+      - "3001:80"
+
+  nginx:
+    build:
+      context: ./nginx
+    container_name: nginx
+    ports:
+      - "80:80"
+    depends_on:
+      - flask-backend
+      - react-frontend

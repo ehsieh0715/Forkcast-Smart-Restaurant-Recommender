@@ -1,0 +1,182 @@
+[I 2025-06-28 23:46:14,777] A new study created in memory with name: no-name-55871b33-ee7b-4a9b-bed0-cdaba70a0186
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.445268	valid's multi_logloss: 0.445822
+[40]	train's multi_logloss: 0.359812	valid's multi_logloss: 0.36056
+[60]	train's multi_logloss: 0.327393	valid's multi_logloss: 0.328314
+[80]	train's multi_logloss: 0.307935	valid's multi_logloss: 0.308997
+[100]	train's multi_logloss: 0.294268	valid's multi_logloss: 0.295525
+[120]	train's multi_logloss: 0.282745	valid's multi_logloss: 0.284192
+[140]	train's multi_logloss: 0.273917	valid's multi_logloss: 0.275537
+[160]	train's multi_logloss: 0.266227	valid's multi_logloss: 0.268008
+[180]	train's multi_logloss: 0.260127	valid's multi_logloss: 0.262038
+[200]	train's multi_logloss: 0.25433	valid's multi_logloss: 0.256411
+[220]	train's multi_logloss: 0.249038	valid's multi_logloss: 0.251252
+[240]	train's multi_logloss: 0.244362	valid's multi_logloss: 0.246733
+[260]	train's multi_logloss: 0.239401	valid's multi_logloss: 0.241941
+[280]	train's multi_logloss: 0.234927	valid's multi_logloss: 0.237609
+[300]	train's multi_logloss: 0.231279	valid's multi_logloss: 0.234107
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.231279	valid's multi_logloss: 0.234107
+[I 2025-06-28 23:52:56,206] Trial 0 finished with value: 0.23410737608963184 and parameters: {'learning_rate': 0.0835910441225739, 'num_leaves': 103, 'max_depth': 5, 'reg_alpha': 0.4261287257169062, 'reg_lambda': 0.7735841428408953, 'subsample': 0.6650235215344598, 'colsample_bytree': 0.7911782537245445, 'min_child_samples': 29}. Best is trial 0 with value: 0.23410737608963184.
+Trial 0 finished | logloss = 0.23411 | params = {'learning_rate': 0.0835910441225739, 'num_leaves': 103, 'max_depth': 5, 'reg_alpha': 0.4261287257169062, 'reg_lambda': 0.7735841428408953, 'subsample': 0.6650235215344598, 'colsample_bytree': 0.7911782537245445, 'min_child_samples': 29}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.585408	valid's multi_logloss: 0.585832
+[40]	train's multi_logloss: 0.465923	valid's multi_logloss: 0.466423
+[60]	train's multi_logloss: 0.413977	valid's multi_logloss: 0.414527
+[80]	train's multi_logloss: 0.380824	valid's multi_logloss: 0.381434
+[100]	train's multi_logloss: 0.360516	valid's multi_logloss: 0.361188
+[120]	train's multi_logloss: 0.344146	valid's multi_logloss: 0.344865
+[140]	train's multi_logloss: 0.331881	valid's multi_logloss: 0.332677
+[160]	train's multi_logloss: 0.322294	valid's multi_logloss: 0.323168
+[180]	train's multi_logloss: 0.31451	valid's multi_logloss: 0.315447
+[200]	train's multi_logloss: 0.308135	valid's multi_logloss: 0.309137
+[220]	train's multi_logloss: 0.302346	valid's multi_logloss: 0.303415
+[240]	train's multi_logloss: 0.297136	valid's multi_logloss: 0.298282
+[260]	train's multi_logloss: 0.292276	valid's multi_logloss: 0.293489
+[280]	train's multi_logloss: 0.287969	valid's multi_logloss: 0.289245
+[300]	train's multi_logloss: 0.284061	valid's multi_logloss: 0.285399
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.284061	valid's multi_logloss: 0.285399
+[I 2025-06-28 23:59:38,894] Trial 1 finished with value: 0.28539946743553224 and parameters: {'learning_rate': 0.03746904721561649, 'num_leaves': 50, 'max_depth': 5, 'reg_alpha': 0.06703976937082456, 'reg_lambda': 0.09301085220854499, 'subsample': 0.6551211423584415, 'colsample_bytree': 0.678783946987565, 'min_child_samples': 41}. Best is trial 0 with value: 0.23410737608963184.
+Trial 1 finished | logloss = 0.28540 | params = {'learning_rate': 0.03746904721561649, 'num_leaves': 50, 'max_depth': 5, 'reg_alpha': 0.06703976937082456, 'reg_lambda': 0.09301085220854499, 'subsample': 0.6551211423584415, 'colsample_bytree': 0.678783946987565, 'min_child_samples': 41}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.488061	valid's multi_logloss: 0.488482
+[40]	train's multi_logloss: 0.396931	valid's multi_logloss: 0.39749
+[60]	train's multi_logloss: 0.357492	valid's multi_logloss: 0.358184
+[80]	train's multi_logloss: 0.333489	valid's multi_logloss: 0.334329
+[100]	train's multi_logloss: 0.316848	valid's multi_logloss: 0.317832
+[120]	train's multi_logloss: 0.304188	valid's multi_logloss: 0.305376
+[140]	train's multi_logloss: 0.29371	valid's multi_logloss: 0.295088
+[160]	train's multi_logloss: 0.285043	valid's multi_logloss: 0.286586
+[180]	train's multi_logloss: 0.278231	valid's multi_logloss: 0.27992
+[200]	train's multi_logloss: 0.272277	valid's multi_logloss: 0.274097
+[220]	train's multi_logloss: 0.267315	valid's multi_logloss: 0.269252
+[240]	train's multi_logloss: 0.262892	valid's multi_logloss: 0.264967
+[260]	train's multi_logloss: 0.258674	valid's multi_logloss: 0.260873
+[280]	train's multi_logloss: 0.254341	valid's multi_logloss: 0.256661
+[300]	train's multi_logloss: 0.250661	valid's multi_logloss: 0.253094
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.250661	valid's multi_logloss: 0.253094
+[I 2025-06-29 00:06:13,167] Trial 2 finished with value: 0.2530943361846899 and parameters: {'learning_rate': 0.04916063656539768, 'num_leaves': 105, 'max_depth': 5, 'reg_alpha': 0.9530074218627668, 'reg_lambda': 0.5654723358722283, 'subsample': 0.9141554184978723, 'colsample_bytree': 0.9967463097916289, 'min_child_samples': 41}. Best is trial 0 with value: 0.23410737608963184.
+Trial 2 finished | logloss = 0.25309 | params = {'learning_rate': 0.04916063656539768, 'num_leaves': 105, 'max_depth': 5, 'reg_alpha': 0.9530074218627668, 'reg_lambda': 0.5654723358722283, 'subsample': 0.9141554184978723, 'colsample_bytree': 0.9967463097916289, 'min_child_samples': 41}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.469446	valid's multi_logloss: 0.470187
+[40]	train's multi_logloss: 0.36412	valid's multi_logloss: 0.365079
+[60]	train's multi_logloss: 0.321543	valid's multi_logloss: 0.322755
+[80]	train's multi_logloss: 0.296435	valid's multi_logloss: 0.297938
+[100]	train's multi_logloss: 0.280992	valid's multi_logloss: 0.282774
+[120]	train's multi_logloss: 0.267676	valid's multi_logloss: 0.269735
+[140]	train's multi_logloss: 0.258201	valid's multi_logloss: 0.26053
+[160]	train's multi_logloss: 0.24983	valid's multi_logloss: 0.252448
+[180]	train's multi_logloss: 0.242934	valid's multi_logloss: 0.245814
+[200]	train's multi_logloss: 0.23707	valid's multi_logloss: 0.240197
+[220]	train's multi_logloss: 0.231797	valid's multi_logloss: 0.235158
+[240]	train's multi_logloss: 0.225872	valid's multi_logloss: 0.229528
+[260]	train's multi_logloss: 0.221264	valid's multi_logloss: 0.225191
+[280]	train's multi_logloss: 0.216797	valid's multi_logloss: 0.220985
+[300]	train's multi_logloss: 0.213086	valid's multi_logloss: 0.217504
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.213086	valid's multi_logloss: 0.217504
+[I 2025-06-29 00:14:45,606] Trial 3 finished with value: 0.21750360112496842 and parameters: {'learning_rate': 0.05850372755799398, 'num_leaves': 84, 'max_depth': 7, 'reg_alpha': 0.009594472807320842, 'reg_lambda': 0.8409662900725676, 'subsample': 0.6890044762646427, 'colsample_bytree': 0.718707119306101, 'min_child_samples': 20}. Best is trial 3 with value: 0.21750360112496842.
+Trial 3 finished | logloss = 0.21750 | params = {'learning_rate': 0.05850372755799398, 'num_leaves': 84, 'max_depth': 7, 'reg_alpha': 0.009594472807320842, 'reg_lambda': 0.8409662900725676, 'subsample': 0.6890044762646427, 'colsample_bytree': 0.718707119306101, 'min_child_samples': 20}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.391801	valid's multi_logloss: 0.392812
+[40]	train's multi_logloss: 0.303123	valid's multi_logloss: 0.304646
+[60]	train's multi_logloss: 0.26584	valid's multi_logloss: 0.268043
+[80]	train's multi_logloss: 0.243783	valid's multi_logloss: 0.246733
+[100]	train's multi_logloss: 0.227982	valid's multi_logloss: 0.231684
+[120]	train's multi_logloss: 0.215539	valid's multi_logloss: 0.21999
+[140]	train's multi_logloss: 0.205698	valid's multi_logloss: 0.21088
+[160]	train's multi_logloss: 0.197962	valid's multi_logloss: 0.203812
+[180]	train's multi_logloss: 0.191249	valid's multi_logloss: 0.197802
+[200]	train's multi_logloss: 0.185044	valid's multi_logloss: 0.192294
+[220]	train's multi_logloss: 0.18	valid's multi_logloss: 0.187916
+[240]	train's multi_logloss: 0.175541	valid's multi_logloss: 0.184167
+[260]	train's multi_logloss: 0.171325	valid's multi_logloss: 0.180638
+[280]	train's multi_logloss: 0.16767	valid's multi_logloss: 0.177584
+[300]	train's multi_logloss: 0.164428	valid's multi_logloss: 0.174926
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.164428	valid's multi_logloss: 0.174926
+[I 2025-06-29 00:24:54,081] Trial 4 finished with value: 0.1749261996027156 and parameters: {'learning_rate': 0.06562296087912123, 'num_leaves': 85, 'max_depth': 10, 'reg_alpha': 0.10343515840801254, 'reg_lambda': 0.3218412073035287, 'subsample': 0.8382808706716934, 'colsample_bytree': 0.885510630293278, 'min_child_samples': 94}. Best is trial 4 with value: 0.1749261996027156.
+Trial 4 finished | logloss = 0.17493 | params = {'learning_rate': 0.06562296087912123, 'num_leaves': 85, 'max_depth': 10, 'reg_alpha': 0.10343515840801254, 'reg_lambda': 0.3218412073035287, 'subsample': 0.8382808706716934, 'colsample_bytree': 0.885510630293278, 'min_child_samples': 94}
+[I 2025-06-29 00:24:57,003] Trial 5 pruned. Trial was pruned at iteration 0.
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.386604	valid's multi_logloss: 0.38766
+[40]	train's multi_logloss: 0.302867	valid's multi_logloss: 0.304394
+[60]	train's multi_logloss: 0.269768	valid's multi_logloss: 0.27186
+[80]	train's multi_logloss: 0.249457	valid's multi_logloss: 0.25218
+[100]	train's multi_logloss: 0.237204	valid's multi_logloss: 0.240422
+[120]	train's multi_logloss: 0.225272	valid's multi_logloss: 0.229038
+[140]	train's multi_logloss: 0.216155	valid's multi_logloss: 0.2205
+[160]	train's multi_logloss: 0.207609	valid's multi_logloss: 0.212494
+[180]	train's multi_logloss: 0.201119	valid's multi_logloss: 0.206529
+[200]	train's multi_logloss: 0.195027	valid's multi_logloss: 0.200974
+[220]	train's multi_logloss: 0.189678	valid's multi_logloss: 0.196185
+[240]	train's multi_logloss: 0.184909	valid's multi_logloss: 0.192004
+[260]	train's multi_logloss: 0.180178	valid's multi_logloss: 0.187819
+[280]	train's multi_logloss: 0.175933	valid's multi_logloss: 0.184084
+[300]	train's multi_logloss: 0.171749	valid's multi_logloss: 0.180447
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.171749	valid's multi_logloss: 0.180447
+[I 2025-06-29 00:35:37,016] Trial 6 finished with value: 0.18044650194268988 and parameters: {'learning_rate': 0.09241635970839265, 'num_leaves': 96, 'max_depth': 8, 'reg_alpha': 0.8942026779281513, 'reg_lambda': 0.8123338944710771, 'subsample': 0.6649066117666763, 'colsample_bytree': 0.7203863087028626, 'min_child_samples': 61}. Best is trial 4 with value: 0.1749261996027156.
+Trial 6 finished | logloss = 0.18045 | params = {'learning_rate': 0.09241635970839265, 'num_leaves': 96, 'max_depth': 8, 'reg_alpha': 0.8942026779281513, 'reg_lambda': 0.8123338944710771, 'subsample': 0.6649066117666763, 'colsample_bytree': 0.7203863087028626, 'min_child_samples': 61}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.360932	valid's multi_logloss: 0.362135
+[40]	train's multi_logloss: 0.2792	valid's multi_logloss: 0.281189
+[60]	train's multi_logloss: 0.245982	valid's multi_logloss: 0.24885
+[80]	train's multi_logloss: 0.226498	valid's multi_logloss: 0.230232
+[100]	train's multi_logloss: 0.212808	valid's multi_logloss: 0.217362
+[120]	train's multi_logloss: 0.200733	valid's multi_logloss: 0.206197
+[140]	train's multi_logloss: 0.190877	valid's multi_logloss: 0.197285
+[160]	train's multi_logloss: 0.183361	valid's multi_logloss: 0.190582
+[180]	train's multi_logloss: 0.176935	valid's multi_logloss: 0.185006
+[200]	train's multi_logloss: 0.171254	valid's multi_logloss: 0.180172
+[220]	train's multi_logloss: 0.166647	valid's multi_logloss: 0.176392
+[240]	train's multi_logloss: 0.162094	valid's multi_logloss: 0.172654
+[260]	train's multi_logloss: 0.158001	valid's multi_logloss: 0.169397
+[280]	train's multi_logloss: 0.154816	valid's multi_logloss: 0.166874
+[300]	train's multi_logloss: 0.151883	valid's multi_logloss: 0.164618
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.151883	valid's multi_logloss: 0.164618
+[I 2025-06-29 00:45:39,946] Trial 7 finished with value: 0.16461801114072314 and parameters: {'learning_rate': 0.0908235899987379, 'num_leaves': 89, 'max_depth': 11, 'reg_alpha': 0.2696085210045166, 'reg_lambda': 0.8551191768602961, 'subsample': 0.7563826076605545, 'colsample_bytree': 0.7663179669357703, 'min_child_samples': 13}. Best is trial 7 with value: 0.16461801114072314.
+Trial 7 finished | logloss = 0.16462 | params = {'learning_rate': 0.0908235899987379, 'num_leaves': 89, 'max_depth': 11, 'reg_alpha': 0.2696085210045166, 'reg_lambda': 0.8551191768602961, 'subsample': 0.7563826076605545, 'colsample_bytree': 0.7663179669357703, 'min_child_samples': 13}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.386734	valid's multi_logloss: 0.387729
+[40]	train's multi_logloss: 0.304937	valid's multi_logloss: 0.306483
+[60]	train's multi_logloss: 0.273367	valid's multi_logloss: 0.275539
+[80]	train's multi_logloss: 0.25395	valid's multi_logloss: 0.256648
+[100]	train's multi_logloss: 0.240771	valid's multi_logloss: 0.244019
+[120]	train's multi_logloss: 0.229653	valid's multi_logloss: 0.233432
+[140]	train's multi_logloss: 0.220942	valid's multi_logloss: 0.225278
+[160]	train's multi_logloss: 0.213221	valid's multi_logloss: 0.218047
+[180]	train's multi_logloss: 0.206512	valid's multi_logloss: 0.211882
+[200]	train's multi_logloss: 0.200421	valid's multi_logloss: 0.206328
+[220]	train's multi_logloss: 0.194641	valid's multi_logloss: 0.201092
+[240]	train's multi_logloss: 0.189484	valid's multi_logloss: 0.196482
+[260]	train's multi_logloss: 0.184848	valid's multi_logloss: 0.192406
+[280]	train's multi_logloss: 0.180655	valid's multi_logloss: 0.188744
+[300]	train's multi_logloss: 0.176851	valid's multi_logloss: 0.185446
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.176851	valid's multi_logloss: 0.185446
+[I 2025-06-29 00:54:16,296] Trial 8 finished with value: 0.18544593015559815 and parameters: {'learning_rate': 0.09200962310713184, 'num_leaves': 120, 'max_depth': 7, 'reg_alpha': 0.792672108234005, 'reg_lambda': 0.5517598744407544, 'subsample': 0.9282200592825837, 'colsample_bytree': 0.7719383503010683, 'min_child_samples': 50}. Best is trial 7 with value: 0.16461801114072314.
+Trial 8 finished | logloss = 0.18545 | params = {'learning_rate': 0.09200962310713184, 'num_leaves': 120, 'max_depth': 7, 'reg_alpha': 0.792672108234005, 'reg_lambda': 0.5517598744407544, 'subsample': 0.9282200592825837, 'colsample_bytree': 0.7719383503010683, 'min_child_samples': 50}
+Training until validation scores don't improve for 10 rounds
+[20]	train's multi_logloss: 0.399733	valid's multi_logloss: 0.40042
+[40]	train's multi_logloss: 0.318928	valid's multi_logloss: 0.319972
+[60]	train's multi_logloss: 0.28632	valid's multi_logloss: 0.287767
+[80]	train's multi_logloss: 0.266293	valid's multi_logloss: 0.268114
+[100]	train's multi_logloss: 0.252881	valid's multi_logloss: 0.255024
+[120]	train's multi_logloss: 0.241241	valid's multi_logloss: 0.243723
+[140]	train's multi_logloss: 0.231691	valid's multi_logloss: 0.234573
+[160]	train's multi_logloss: 0.223777	valid's multi_logloss: 0.227028
+[180]	train's multi_logloss: 0.217724	valid's multi_logloss: 0.221308
+[200]	train's multi_logloss: 0.212197	valid's multi_logloss: 0.216142
+[220]	train's multi_logloss: 0.206876	valid's multi_logloss: 0.21113
+[240]	train's multi_logloss: 0.202186	valid's multi_logloss: 0.20685
+[260]	train's multi_logloss: 0.197554	valid's multi_logloss: 0.202549
+[280]	train's multi_logloss: 0.19362	valid's multi_logloss: 0.198904
+[300]	train's multi_logloss: 0.190029	valid's multi_logloss: 0.195628
+Did not meet early stopping. Best iteration is:
+[300]	train's multi_logloss: 0.190029	valid's multi_logloss: 0.195628
+[I 2025-06-29 01:01:51,969] Trial 9 finished with value: 0.19562849314474054 and parameters: {'learning_rate': 0.09082889153786439, 'num_leaves': 43, 'max_depth': 7, 'reg_alpha': 0.520951706478734, 'reg_lambda': 0.3014543405571142, 'subsample': 0.6707041314493327, 'colsample_bytree': 0.7513569637033635, 'min_child_samples': 24}. Best is trial 7 with value: 0.16461801114072314.
+Trial 9 finished | logloss = 0.19563 | params = {'learning_rate': 0.09082889153786439, 'num_leaves': 43, 'max_depth': 7, 'reg_alpha': 0.520951706478734, 'reg_lambda': 0.3014543405571142, 'subsample': 0.6707041314493327, 'colsample_bytree': 0.7513569637033635, 'min_child_samples': 24}

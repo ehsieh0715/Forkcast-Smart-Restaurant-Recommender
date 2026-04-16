@@ -1,0 +1,721 @@
+lat,lon,processed,new_records,error
+40.7,-74.02,True,20,
+40.7,-74.015,True,132,
+40.7,-74.01,True,15,
+40.7,-74.005,True,7,
+40.7,-74.0,True,38,
+40.7,-73.995,True,83,
+40.7,-73.99,True,45,
+40.7,-73.985,True,6,
+40.7,-73.98,True,6,
+40.7,-73.975,True,13,
+40.7,-73.97,True,11,
+40.7,-73.965,True,8,
+40.7,-73.96,True,18,
+40.7,-73.955,True,16,
+40.7,-73.95,True,44,
+40.7,-73.945,True,81,
+40.7,-73.94,True,71,
+40.7,-73.935,True,53,
+40.7,-73.93,True,81,Too many results: likely to exceed 240 limit
+40.7,-73.925,True,81,Too many results: likely to exceed 240 limit
+40.705,-74.02,True,33,
+40.705,-74.015,True,33,Too many results: likely to exceed 240 limit
+40.705,-74.01,True,41,Too many results: likely to exceed 240 limit
+40.705,-74.005,True,109,Too many results: likely to exceed 240 limit
+40.705,-74.0,True,72,
+40.705,-73.995,True,0,
+40.705,-73.99,True,1,
+40.705,-73.985,True,0,
+40.705,-73.98,True,0,
+40.705,-73.975,True,3,
+40.705,-73.97,True,8,
+40.705,-73.965,True,36,
+40.705,-73.96,True,22,
+40.705,-73.955,True,26,
+40.705,-73.95,True,25,
+40.705,-73.945,True,28,
+40.705,-73.94,True,9,
+40.705,-73.935,True,13,
+40.705,-73.93,True,15,
+40.705,-73.925,True,54,Too many results: likely to exceed 240 limit
+40.71,-74.02,True,51,
+40.71,-74.015,True,98,Too many results: likely to exceed 240 limit
+40.71,-74.01,True,49,Too many results: likely to exceed 240 limit
+40.71,-74.005,True,21,Too many results: likely to exceed 240 limit
+40.71,-74.0,True,85,Too many results: likely to exceed 240 limit
+40.71,-73.995,True,110,Too many results: likely to exceed 240 limit
+40.71,-73.99,True,56,
+40.71,-73.985,True,12,
+40.71,-73.98,True,1,
+40.71,-73.975,True,4,
+40.71,-73.97,True,49,
+40.71,-73.965,True,98,
+40.71,-73.96,True,43,Too many results: likely to exceed 240 limit
+40.71,-73.955,True,65,Too many results: likely to exceed 240 limit
+40.71,-73.95,True,68,Too many results: likely to exceed 240 limit
+40.71,-73.945,True,47,Too many results: likely to exceed 240 limit
+40.71,-73.94,True,22,
+40.71,-73.935,True,2,
+40.71,-73.93,True,5,
+40.71,-73.925,True,11,
+40.715,-74.02,True,1,
+40.715,-74.015,True,96,Too many results: likely to exceed 240 limit
+40.715,-74.01,True,74,Too many results: likely to exceed 240 limit
+40.715,-74.005,True,43,Too many results: likely to exceed 240 limit
+40.715,-74.0,True,123,Too many results: likely to exceed 240 limit
+40.715,-73.995,True,44,Too many results: likely to exceed 240 limit
+40.715,-73.99,True,76,Too many results: likely to exceed 240 limit
+40.715,-73.985,True,86,Too many results: likely to exceed 240 limit
+40.715,-73.98,True,21,
+40.715,-73.975,True,0,
+40.715,-73.97,True,19,
+40.715,-73.965,True,44,Too many results: likely to exceed 240 limit
+40.715,-73.96,True,43,Too many results: likely to exceed 240 limit
+40.715,-73.955,True,37,Too many results: likely to exceed 240 limit
+40.715,-73.95,True,29,Too many results: likely to exceed 240 limit
+40.715,-73.945,True,10,Too many results: likely to exceed 240 limit
+40.715,-73.94,True,3,
+40.715,-73.935,True,0,
+40.715,-73.93,True,0,
+40.715,-73.925,True,2,
+40.72,-74.02,True,0,
+40.72,-74.015,True,41,
+40.72,-74.01,True,77,Too many results: likely to exceed 240 limit
+40.72,-74.005,True,63,Too many results: likely to exceed 240 limit
+40.72,-74.0,True,119,Too many results: likely to exceed 240 limit
+40.72,-73.995,True,120,Too many results: likely to exceed 240 limit
+40.72,-73.99,True,162,Too many results: likely to exceed 240 limit
+40.72,-73.985,True,59,Too many results: likely to exceed 240 limit
+40.72,-73.98,True,86,Too many results: likely to exceed 240 limit
+40.72,-73.975,True,1,
+40.72,-73.97,True,4,
+40.72,-73.965,True,62,
+40.72,-73.96,True,38,Too many results: likely to exceed 240 limit
+40.72,-73.955,True,31,Too many results: likely to exceed 240 limit
+40.72,-73.95,True,76,Too many results: likely to exceed 240 limit
+40.72,-73.945,True,25,
+40.72,-73.94,True,0,
+40.72,-73.935,True,0,
+40.72,-73.93,True,1,
+40.72,-73.925,True,0,
+40.725,-74.02,True,0,
+40.725,-74.015,True,12,
+40.725,-74.01,True,105,Too many results: likely to exceed 240 limit
+40.725,-74.005,True,54,Too many results: likely to exceed 240 limit
+40.725,-74.0,True,97,Too many results: likely to exceed 240 limit
+40.725,-73.995,True,123,Too many results: likely to exceed 240 limit
+40.725,-73.99,True,142,Too many results: likely to exceed 240 limit
+40.725,-73.985,True,127,Too many results: likely to exceed 240 limit
+40.725,-73.98,True,67,Too many results: likely to exceed 240 limit
+40.725,-73.975,True,43,
+40.725,-73.97,True,0,
+40.725,-73.965,True,14,
+40.725,-73.96,True,40,
+40.725,-73.955,True,29,Too many results: likely to exceed 240 limit
+40.725,-73.95,True,27,Too many results: likely to exceed 240 limit
+40.725,-73.945,True,5,
+40.725,-73.94,True,4,
+40.725,-73.935,True,0,
+40.725,-73.93,True,0,
+40.725,-73.925,True,4,
+40.73,-74.02,True,0,
+40.73,-74.015,True,20,
+40.73,-74.01,True,118,Too many results: likely to exceed 240 limit
+40.73,-74.005,True,85,Too many results: likely to exceed 240 limit
+40.73,-74.0,True,125,Too many results: likely to exceed 240 limit
+40.73,-73.995,True,121,Too many results: likely to exceed 240 limit
+40.73,-73.99,True,156,Too many results: likely to exceed 240 limit
+40.73,-73.985,True,158,Too many results: likely to exceed 240 limit
+40.73,-73.98,True,21,Too many results: likely to exceed 240 limit
+40.73,-73.975,True,12,
+40.73,-73.97,True,0,
+40.73,-73.965,True,16,
+40.73,-73.96,True,49,
+40.73,-73.955,True,8,
+40.73,-73.95,True,0,
+40.73,-73.945,True,1,
+40.73,-73.94,True,5,
+40.73,-73.935,True,0,
+40.73,-73.93,True,0,
+40.73,-73.925,True,0,
+40.735,-74.02,True,1,
+40.735,-74.015,True,19,
+40.735,-74.01,True,90,Too many results: likely to exceed 240 limit
+40.735,-74.005,True,51,Too many results: likely to exceed 240 limit
+40.735,-74.0,True,120,Too many results: likely to exceed 240 limit
+40.735,-73.995,True,124,Too many results: likely to exceed 240 limit
+40.735,-73.99,True,123,Too many results: likely to exceed 240 limit
+40.735,-73.985,True,93,Too many results: likely to exceed 240 limit
+40.735,-73.98,True,64,Too many results: likely to exceed 240 limit
+40.735,-73.975,True,17,
+40.735,-73.97,True,0,
+40.735,-73.965,True,3,
+40.735,-73.96,True,13,
+40.735,-73.955,True,4,
+40.735,-73.95,True,7,
+40.735,-73.945,True,1,
+40.735,-73.94,True,6,
+40.735,-73.935,True,7,
+40.735,-73.93,True,17,
+40.735,-73.925,True,18,
+40.74,-74.02,True,4,
+40.74,-74.015,True,22,
+40.74,-74.01,True,101,Too many results: likely to exceed 240 limit
+40.74,-74.005,True,36,Too many results: likely to exceed 240 limit
+40.74,-74.0,True,120,Too many results: likely to exceed 240 limit
+40.74,-73.995,True,128,Too many results: likely to exceed 240 limit
+40.74,-73.99,True,124,Too many results: likely to exceed 240 limit
+40.74,-73.985,True,114,Too many results: likely to exceed 240 limit
+40.74,-73.98,True,73,Too many results: likely to exceed 240 limit
+40.74,-73.975,True,70,Too many results: likely to exceed 240 limit
+40.74,-73.97,True,1,
+40.74,-73.965,True,9,
+40.74,-73.96,True,50,
+40.74,-73.955,True,19,
+40.74,-73.95,True,3,
+40.74,-73.945,True,5,
+40.74,-73.94,True,21,
+40.74,-73.935,True,10,
+40.74,-73.93,True,37,
+40.74,-73.925,True,83,
+40.745,-74.02,True,1,
+40.745,-74.015,True,5,
+40.745,-74.01,True,39,
+40.745,-74.005,True,44,Too many results: likely to exceed 240 limit
+40.745,-74.0,True,68,Too many results: likely to exceed 240 limit
+40.745,-73.995,True,97,Too many results: likely to exceed 240 limit
+40.745,-73.99,True,143,Too many results: likely to exceed 240 limit
+40.745,-73.985,True,157,Too many results: likely to exceed 240 limit
+40.745,-73.98,True,109,Too many results: likely to exceed 240 limit
+40.745,-73.975,True,51,Too many results: likely to exceed 240 limit
+40.745,-73.97,True,37,
+40.745,-73.965,True,0,
+40.745,-73.96,True,19,
+40.745,-73.955,True,11,
+40.745,-73.95,True,52,
+40.745,-73.945,True,83,
+40.745,-73.94,True,6,
+40.745,-73.935,True,2,
+40.745,-73.93,True,52,
+40.745,-73.925,True,7,Too many results: likely to exceed 240 limit
+40.75,-74.02,True,19,
+40.75,-74.015,True,2,
+40.75,-74.01,True,38,
+40.75,-74.005,True,92,Too many results: likely to exceed 240 limit
+40.75,-74.0,True,75,Too many results: likely to exceed 240 limit
+40.75,-73.995,True,133,Too many results: likely to exceed 240 limit
+40.75,-73.99,True,142,Too many results: likely to exceed 240 limit
+40.75,-73.985,True,185,Too many results: likely to exceed 240 limit
+40.75,-73.98,True,149,Too many results: likely to exceed 240 limit
+40.75,-73.975,True,90,Too many results: likely to exceed 240 limit
+40.75,-73.97,True,94,Too many results: likely to exceed 240 limit
+40.75,-73.965,True,68,
+40.75,-73.96,True,1,
+40.75,-73.955,True,7,
+40.75,-73.95,True,11,
+40.75,-73.945,True,21,
+40.75,-73.94,True,24,
+40.75,-73.935,True,12,
+40.75,-73.93,True,18,
+40.75,-73.925,True,17,
+40.755,-74.02,True,5,
+40.755,-74.015,True,0,
+40.755,-74.01,True,3,
+40.755,-74.005,True,30,
+40.755,-74.0,True,44,Too many results: likely to exceed 240 limit
+40.755,-73.995,True,125,Too many results: likely to exceed 240 limit
+40.755,-73.99,True,136,Too many results: likely to exceed 240 limit
+40.755,-73.985,True,179,Too many results: likely to exceed 240 limit
+40.755,-73.98,True,166,Too many results: likely to exceed 240 limit
+40.755,-73.975,True,140,Too many results: likely to exceed 240 limit
+40.755,-73.97,True,111,Too many results: likely to exceed 240 limit
+40.755,-73.965,True,60,Too many results: likely to exceed 240 limit
+40.755,-73.96,True,50,
+40.755,-73.955,True,3,
+40.755,-73.95,True,5,
+40.755,-73.945,True,12,
+40.755,-73.94,True,15,
+40.755,-73.935,True,55,
+40.755,-73.93,True,37,
+40.755,-73.925,True,63,Too many results: likely to exceed 240 limit
+40.76,-74.02,True,11,
+40.76,-74.015,True,0,
+40.76,-74.01,True,1,
+40.76,-74.005,True,12,
+40.76,-74.0,True,82,Too many results: likely to exceed 240 limit
+40.76,-73.995,True,106,Too many results: likely to exceed 240 limit
+40.76,-73.99,True,117,Too many results: likely to exceed 240 limit
+40.76,-73.985,True,186,Too many results: likely to exceed 240 limit
+40.76,-73.98,True,158,Too many results: likely to exceed 240 limit
+40.76,-73.975,True,147,Too many results: likely to exceed 240 limit
+40.76,-73.97,True,161,Too many results: likely to exceed 240 limit
+40.76,-73.965,True,55,Too many results: likely to exceed 240 limit
+40.76,-73.96,True,69,Too many results: likely to exceed 240 limit
+40.76,-73.955,True,16,
+40.76,-73.95,True,0,
+40.76,-73.945,True,21,
+40.76,-73.94,True,3,
+40.76,-73.935,True,22,
+40.76,-73.93,True,56,Too many results: likely to exceed 240 limit
+40.76,-73.925,True,26,Too many results: likely to exceed 240 limit
+40.765,-74.02,True,1,
+40.765,-74.015,True,0,
+40.765,-74.01,True,0,
+40.765,-74.005,True,0,
+40.765,-74.0,True,5,
+40.765,-73.995,True,96,Too many results: likely to exceed 240 limit
+40.765,-73.99,True,96,Too many results: likely to exceed 240 limit
+40.765,-73.985,True,125,Too many results: likely to exceed 240 limit
+40.765,-73.98,True,143,Too many results: likely to exceed 240 limit
+40.765,-73.975,True,74,Too many results: likely to exceed 240 limit
+40.765,-73.97,True,98,Too many results: likely to exceed 240 limit
+40.765,-73.965,True,29,Too many results: likely to exceed 240 limit
+40.765,-73.96,True,68,Too many results: likely to exceed 240 limit
+40.765,-73.955,True,63,Too many results: likely to exceed 240 limit
+40.765,-73.95,True,3,
+40.765,-73.945,True,0,
+40.765,-73.94,True,2,
+40.765,-73.935,True,21,
+40.765,-73.93,True,18,
+40.765,-73.925,True,63,Too many results: likely to exceed 240 limit
+40.77,-74.02,True,50,
+40.77,-74.015,True,2,
+40.77,-74.01,True,0,
+40.77,-74.005,True,0,
+40.77,-74.0,True,1,
+40.77,-73.995,True,42,
+40.77,-73.99,True,46,Too many results: likely to exceed 240 limit
+40.77,-73.985,True,64,Too many results: likely to exceed 240 limit
+40.77,-73.98,True,18,Too many results: likely to exceed 240 limit
+40.77,-73.975,True,5,
+40.77,-73.97,True,26,
+40.77,-73.965,True,55,Too many results: likely to exceed 240 limit
+40.77,-73.96,True,40,Too many results: likely to exceed 240 limit
+40.77,-73.955,True,35,Too many results: likely to exceed 240 limit
+40.77,-73.95,True,55,Too many results: likely to exceed 240 limit
+40.77,-73.945,True,1,
+40.77,-73.94,True,1,
+40.77,-73.935,True,10,
+40.77,-73.93,True,21,
+40.77,-73.925,True,32,
+40.775,-74.02,True,74,
+40.775,-74.015,True,5,
+40.775,-74.01,True,0,
+40.775,-74.005,True,0,
+40.775,-74.0,True,0,
+40.775,-73.995,True,4,
+40.775,-73.99,True,21,
+40.775,-73.985,True,105,Too many results: likely to exceed 240 limit
+40.775,-73.98,True,27,Too many results: likely to exceed 240 limit
+40.775,-73.975,True,6,
+40.775,-73.97,True,8,
+40.775,-73.965,True,16,
+40.775,-73.96,True,57,Too many results: likely to exceed 240 limit
+40.775,-73.955,True,50,Too many results: likely to exceed 240 limit
+40.775,-73.95,True,60,Too many results: likely to exceed 240 limit
+40.775,-73.945,True,29,
+40.775,-73.94,True,2,
+40.775,-73.935,True,0,
+40.775,-73.93,True,0,
+40.775,-73.925,True,3,
+40.78,-74.02,True,78,
+40.78,-74.015,True,8,
+40.78,-74.01,True,2,
+40.78,-74.005,True,0,
+40.78,-74.0,True,0,
+40.78,-73.995,True,0,
+40.78,-73.99,True,0,
+40.78,-73.985,True,37,Too many results: likely to exceed 240 limit
+40.78,-73.98,True,19,Too many results: likely to exceed 240 limit
+40.78,-73.975,True,54,Too many results: likely to exceed 240 limit
+40.78,-73.97,True,6,
+40.78,-73.965,True,5,
+40.78,-73.96,True,68,Too many results: likely to exceed 240 limit
+40.78,-73.955,True,29,Too many results: likely to exceed 240 limit
+40.78,-73.95,True,45,Too many results: likely to exceed 240 limit
+40.78,-73.945,True,20,
+40.78,-73.94,True,0,
+40.78,-73.935,True,1,
+40.78,-73.93,True,0,
+40.78,-73.925,True,2,
+40.785,-74.02,True,60,
+40.785,-74.015,True,37,
+40.785,-74.01,True,12,
+40.785,-74.005,True,4,
+40.785,-74.0,True,0,
+40.785,-73.995,True,0,
+40.785,-73.99,True,0,
+40.785,-73.985,True,10,
+40.785,-73.98,True,65,Too many results: likely to exceed 240 limit
+40.785,-73.975,True,24,Too many results: likely to exceed 240 limit
+40.785,-73.97,True,12,
+40.785,-73.965,True,0,
+40.785,-73.96,True,20,
+40.785,-73.955,True,41,Too many results: likely to exceed 240 limit
+40.785,-73.95,True,14,Too many results: likely to exceed 240 limit
+40.785,-73.945,True,37,
+40.785,-73.94,True,0,
+40.785,-73.935,True,0,
+40.785,-73.93,True,0,
+40.785,-73.925,True,0,
+40.79,-74.02,True,40,
+40.79,-74.015,True,15,
+40.79,-74.01,True,20,
+40.79,-74.005,True,7,
+40.79,-74.0,True,2,
+40.79,-73.995,True,0,
+40.79,-73.99,True,0,
+40.79,-73.985,True,0,
+40.79,-73.98,True,15,
+40.79,-73.975,True,54,Too many results: likely to exceed 240 limit
+40.79,-73.97,True,27,Too many results: likely to exceed 240 limit
+40.79,-73.965,True,5,
+40.79,-73.96,True,0,
+40.79,-73.955,True,17,
+40.79,-73.95,True,55,
+40.79,-73.945,True,45,Too many results: likely to exceed 240 limit
+40.79,-73.94,True,17,
+40.79,-73.935,True,2,
+40.79,-73.93,True,1,
+40.79,-73.925,True,1,
+40.795,-74.02,True,10,
+40.795,-74.015,True,28,
+40.795,-74.01,True,14,
+40.795,-74.005,True,7,
+40.795,-74.0,True,3,
+40.795,-73.995,True,0,
+40.795,-73.99,True,0,
+40.795,-73.985,True,0,
+40.795,-73.98,True,5,
+40.795,-73.975,True,44,
+40.795,-73.97,True,39,Too many results: likely to exceed 240 limit
+40.795,-73.965,True,29,
+40.795,-73.96,True,3,
+40.795,-73.955,True,22,
+40.795,-73.95,True,15,
+40.795,-73.945,True,49,Too many results: likely to exceed 240 limit
+40.795,-73.94,True,50,Too many results: likely to exceed 240 limit
+40.795,-73.935,True,25,
+40.795,-73.93,True,1,
+40.795,-73.925,True,0,
+40.8,-74.02,True,10,
+40.8,-74.015,True,5,
+40.8,-74.01,True,16,
+40.8,-74.005,True,1,
+40.8,-74.0,True,4,
+40.8,-73.995,True,7,
+40.8,-73.99,True,0,
+40.8,-73.985,True,0,
+40.8,-73.98,True,0,
+40.8,-73.975,True,14,
+40.8,-73.97,True,59,
+40.8,-73.965,True,18,Too many results: likely to exceed 240 limit
+40.8,-73.96,True,46,
+40.8,-73.955,True,33,
+40.8,-73.95,True,7,
+40.8,-73.945,True,25,
+40.8,-73.94,True,34,Too many results: likely to exceed 240 limit
+40.8,-73.935,True,2,
+40.8,-73.93,True,0,
+40.8,-73.925,True,5,
+40.805,-74.02,True,10,
+40.805,-74.015,True,10,
+40.805,-74.01,True,2,
+40.805,-74.005,True,9,
+40.805,-74.0,True,3,
+40.805,-73.995,True,13,
+40.805,-73.99,True,3,
+40.805,-73.985,True,0,
+40.805,-73.98,True,0,
+40.805,-73.975,True,0,
+40.805,-73.97,True,23,
+40.805,-73.965,True,17,
+40.805,-73.96,True,17,
+40.805,-73.955,True,32,
+40.805,-73.95,True,54,
+40.805,-73.945,True,19,
+40.805,-73.94,True,3,
+40.805,-73.935,True,12,
+40.805,-73.93,True,31,
+40.805,-73.925,True,44,
+40.81,-74.02,True,7,
+40.81,-74.015,True,5,
+40.81,-74.01,True,5,
+40.81,-74.005,True,11,
+40.81,-74.0,True,16,
+40.81,-73.995,True,4,
+40.81,-73.99,True,5,
+40.81,-73.985,True,2,
+40.81,-73.98,True,0,
+40.81,-73.975,True,0,
+40.81,-73.97,True,2,
+40.81,-73.965,True,32,
+40.81,-73.96,True,40,
+40.81,-73.955,True,28,
+40.81,-73.95,True,23,Too many results: likely to exceed 240 limit
+40.81,-73.945,True,28,
+40.81,-73.94,True,6,
+40.81,-73.935,True,8,
+40.81,-73.93,True,12,
+40.81,-73.925,True,21,
+40.815,-74.02,True,0,
+40.815,-74.015,True,2,
+40.815,-74.01,True,6,
+40.815,-74.005,True,13,
+40.815,-74.0,True,15,
+40.815,-73.995,True,16,
+40.815,-73.99,True,0,
+40.815,-73.985,True,12,
+40.815,-73.98,True,9,
+40.815,-73.975,True,0,
+40.815,-73.97,True,0,
+40.815,-73.965,True,19,
+40.815,-73.96,True,25,
+40.815,-73.955,True,13,
+40.815,-73.95,True,31,
+40.815,-73.945,True,23,
+40.815,-73.94,True,6,
+40.815,-73.935,True,4,
+40.815,-73.93,True,29,
+40.815,-73.925,True,46,
+40.82,-74.02,True,0,
+40.82,-74.015,True,9,
+40.82,-74.01,True,1,
+40.82,-74.005,True,10,
+40.82,-74.0,True,2,
+40.82,-73.995,True,27,
+40.82,-73.99,True,13,
+40.82,-73.985,True,1,
+40.82,-73.98,True,7,
+40.82,-73.975,True,0,
+40.82,-73.97,True,0,
+40.82,-73.965,True,0,
+40.82,-73.96,True,26,
+40.82,-73.955,True,63,
+40.82,-73.95,True,33,
+40.82,-73.945,True,41,
+40.82,-73.94,True,9,
+40.82,-73.935,True,11,
+40.82,-73.93,True,10,
+40.82,-73.925,True,8,
+40.825,-74.02,True,1,
+40.825,-74.015,True,3,
+40.825,-74.01,True,0,
+40.825,-74.005,True,0,
+40.825,-74.0,True,4,
+40.825,-73.995,True,0,
+40.825,-73.99,True,41,
+40.825,-73.985,True,5,
+40.825,-73.98,True,12,
+40.825,-73.975,True,6,
+40.825,-73.97,True,0,
+40.825,-73.965,True,0,
+40.825,-73.96,True,1,
+40.825,-73.955,True,44,
+40.825,-73.95,True,41,Too many results: likely to exceed 240 limit
+40.825,-73.945,True,13,Too many results: likely to exceed 240 limit
+40.825,-73.94,True,14,
+40.825,-73.935,True,0,
+40.825,-73.93,True,39,
+40.825,-73.925,True,22,
+40.83,-74.02,True,1,
+40.83,-74.015,True,13,
+40.83,-74.01,True,1,
+40.83,-74.005,True,3,
+40.83,-74.0,True,0,
+40.83,-73.995,True,3,
+40.83,-73.99,True,6,
+40.83,-73.985,True,3,
+40.83,-73.98,True,0,
+40.83,-73.975,True,2,
+40.83,-73.97,True,0,
+40.83,-73.965,True,0,
+40.83,-73.96,True,0,
+40.83,-73.955,True,1,
+40.83,-73.95,True,26,
+40.83,-73.945,True,22,
+40.83,-73.94,True,1,
+40.83,-73.935,True,8,
+40.83,-73.93,True,3,
+40.83,-73.925,True,21,
+40.835,-74.02,True,2,
+40.835,-74.015,True,0,
+40.835,-74.01,True,4,
+40.835,-74.005,True,2,
+40.835,-74.0,True,0,
+40.835,-73.995,True,0,
+40.835,-73.99,True,0,
+40.835,-73.985,True,5,
+40.835,-73.98,True,1,
+40.835,-73.975,True,1,
+40.835,-73.97,True,0,
+40.835,-73.965,True,0,
+40.835,-73.96,True,0,
+40.835,-73.955,True,0,
+40.835,-73.95,True,11,
+40.835,-73.945,True,69,
+40.835,-73.94,True,10,
+40.835,-73.935,True,1,
+40.835,-73.93,True,11,
+40.835,-73.925,True,30,
+40.84,-74.02,True,0,
+40.84,-74.015,True,2,
+40.84,-74.01,True,3,
+40.84,-74.005,True,32,
+40.84,-74.0,True,0,
+40.84,-73.995,True,2,
+40.84,-73.99,True,3,
+40.84,-73.985,True,3,
+40.84,-73.98,True,3,
+40.84,-73.975,True,1,
+40.84,-73.97,True,1,
+40.84,-73.965,True,0,
+40.84,-73.96,True,0,
+40.84,-73.955,True,0,
+40.84,-73.95,True,2,
+40.84,-73.945,True,40,
+40.84,-73.94,True,20,
+40.84,-73.935,True,0,
+40.84,-73.93,True,12,
+40.84,-73.925,True,12,
+40.845,-74.02,True,4,
+40.845,-74.015,True,1,
+40.845,-74.01,True,2,
+40.845,-74.005,True,30,
+40.845,-74.0,True,22,
+40.845,-73.995,True,0,
+40.845,-73.99,True,18,
+40.845,-73.985,True,5,
+40.845,-73.98,True,0,
+40.845,-73.975,True,20,
+40.845,-73.97,True,3,
+40.845,-73.965,True,0,
+40.845,-73.96,True,0,
+40.845,-73.955,True,0,
+40.845,-73.95,True,0,
+40.845,-73.945,True,22,
+40.845,-73.94,True,62,
+40.845,-73.935,True,11,
+40.845,-73.93,True,0,
+40.845,-73.925,True,19,
+40.85,-74.02,True,5,
+40.85,-74.015,True,0,
+40.85,-74.01,True,6,
+40.85,-74.005,True,11,
+40.85,-74.0,True,21,
+40.85,-73.995,True,0,
+40.85,-73.99,True,7,
+40.85,-73.985,True,0,
+40.85,-73.98,True,10,
+40.85,-73.975,True,63,
+40.85,-73.97,True,8,
+40.85,-73.965,True,0,
+40.85,-73.96,True,0,
+40.85,-73.955,True,0,
+40.85,-73.95,True,0,
+40.85,-73.945,True,13,
+40.85,-73.94,True,33,
+40.85,-73.935,True,48,
+40.85,-73.93,True,0,
+40.85,-73.925,True,8,
+40.855,-74.02,True,21,
+40.855,-74.015,True,0,
+40.855,-74.01,True,0,
+40.855,-74.005,True,0,
+40.855,-74.0,True,0,
+40.855,-73.995,True,0,
+40.855,-73.99,True,0,
+40.855,-73.985,True,2,
+40.855,-73.98,True,6,
+40.855,-73.975,True,5,
+40.855,-73.97,True,15,
+40.855,-73.965,True,0,
+40.855,-73.96,True,0,
+40.855,-73.955,True,0,
+40.855,-73.95,True,0,
+40.855,-73.945,True,0,
+40.855,-73.94,True,3,
+40.855,-73.935,True,24,
+40.855,-73.93,True,2,
+40.855,-73.925,True,0,
+40.86,-74.02,True,0,
+40.86,-74.015,True,0,
+40.86,-74.01,True,0,
+40.86,-74.005,True,0,
+40.86,-74.0,True,0,
+40.86,-73.995,True,5,
+40.86,-73.99,True,6,
+40.86,-73.985,True,0,
+40.86,-73.98,True,1,
+40.86,-73.975,True,6,
+40.86,-73.97,True,2,
+40.86,-73.965,True,7,
+40.86,-73.96,True,0,
+40.86,-73.955,True,0,
+40.86,-73.95,True,0,
+40.86,-73.945,True,0,
+40.86,-73.94,True,2,
+40.86,-73.935,True,15,
+40.86,-73.93,True,59,
+40.86,-73.925,True,40,
+40.865,-74.02,True,6,
+40.865,-74.015,True,0,
+40.865,-74.01,True,0,
+40.865,-74.005,True,0,
+40.865,-74.0,True,0,
+40.865,-73.995,True,0,
+40.865,-73.99,True,6,
+40.865,-73.985,True,0,
+40.865,-73.98,True,2,
+40.865,-73.975,True,0,
+40.865,-73.97,True,0,
+40.865,-73.965,True,5,
+40.865,-73.96,True,1,
+40.865,-73.955,True,0,
+40.865,-73.95,True,0,
+40.865,-73.945,True,0,
+40.865,-73.94,True,0,
+40.865,-73.935,True,7,
+40.865,-73.93,True,18,
+40.865,-73.925,True,52,
+40.87,-74.02,True,14,
+40.87,-74.015,True,0,
+40.87,-74.01,True,3,
+40.87,-74.005,True,0,
+40.87,-74.0,True,0,
+40.87,-73.995,True,0,
+40.87,-73.99,True,0,
+40.87,-73.985,True,0,
+40.87,-73.98,True,0,
+40.87,-73.975,True,0,
+40.87,-73.97,True,0,
+40.87,-73.965,True,0,
+40.87,-73.96,True,1,
+40.87,-73.955,True,1,
+40.87,-73.95,True,0,
+40.87,-73.945,True,0,
+40.87,-73.94,True,0,
+40.87,-73.935,True,0,
+40.87,-73.93,True,0,
+40.87,-73.925,True,3,
+40.875,-74.02,True,18,
+40.875,-74.015,True,0,
+40.875,-74.01,True,0,
+40.875,-74.005,True,0,
+40.875,-74.0,True,0,
+40.875,-73.995,True,0,
+40.875,-73.99,True,7,
+40.875,-73.985,True,0,
+40.875,-73.98,True,0,
+40.875,-73.975,True,0,
+40.875,-73.97,True,0,
+40.875,-73.965,True,0,
+40.875,-73.96,True,0,
+40.875,-73.955,True,8,
+40.875,-73.95,True,0,
+40.875,-73.945,True,0,
+40.875,-73.94,True,0,
+40.875,-73.935,True,0,
+40.875,-73.93,True,0,
+40.875,-73.925,True,0,

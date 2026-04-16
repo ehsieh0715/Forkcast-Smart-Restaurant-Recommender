@@ -1,0 +1,11 @@
+
+# Ignore all .env files in any directory
+**/.env
+
+# Ignore all .DS_Store files in any directory (macOS system file)
+**/.DS_Store
+
+**/__pycache__
+
+
+

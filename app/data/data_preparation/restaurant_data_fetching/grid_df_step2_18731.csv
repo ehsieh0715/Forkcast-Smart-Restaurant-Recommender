@@ -1,0 +1,589 @@
+lat,lon,source,processed,new_records,error
+40.7018,-73.92765,"subgrid from (40.7000, -73.9300)",True,0,Too many results: likely to exceed 240 limit
+40.6982,-73.92765,"subgrid from (40.7000, -73.9300)",True,0,
+40.7018,-73.93235,"subgrid from (40.7000, -73.9300)",True,0,
+40.6982,-73.93235,"subgrid from (40.7000, -73.9300)",True,0,
+40.7018,-73.92265,"subgrid from (40.7000, -73.9250)",True,13,Too many results: likely to exceed 240 limit
+40.6982,-73.92265,"subgrid from (40.7000, -73.9250)",True,38,Too many results: likely to exceed 240 limit
+40.7018,-73.92735,"subgrid from (40.7000, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.6982,-73.92735,"subgrid from (40.7000, -73.9250)",True,0,
+40.7068,-74.01265,"subgrid from (40.7050, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.01265,"subgrid from (40.7050, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-74.01735,"subgrid from (40.7050, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.01735,"subgrid from (40.7050, -74.0150)",True,0,
+40.7068,-74.00765,"subgrid from (40.7050, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.00765,"subgrid from (40.7050, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-74.01235,"subgrid from (40.7050, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.01235,"subgrid from (40.7050, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-74.00265,"subgrid from (40.7050, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.00265,"subgrid from (40.7050, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-74.00735,"subgrid from (40.7050, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-74.00735,"subgrid from (40.7050, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-73.92265,"subgrid from (40.7050, -73.9250)",True,4,Too many results: likely to exceed 240 limit
+40.7032,-73.92265,"subgrid from (40.7050, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7068,-73.92735,"subgrid from (40.7050, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7032,-73.92735,"subgrid from (40.7050, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.01265,"subgrid from (40.7100, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.01265,"subgrid from (40.7100, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.01735,"subgrid from (40.7100, -74.0150)",True,0,
+40.7082,-74.01735,"subgrid from (40.7100, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.00765,"subgrid from (40.7100, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.00765,"subgrid from (40.7100, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.01235,"subgrid from (40.7100, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.01235,"subgrid from (40.7100, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.00265,"subgrid from (40.7100, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.00265,"subgrid from (40.7100, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-74.00735,"subgrid from (40.7100, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.00735,"subgrid from (40.7100, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.99765,"subgrid from (40.7100, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.99765,"subgrid from (40.7100, -74.0000)",True,0,
+40.7118,-74.00235,"subgrid from (40.7100, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-74.00235,"subgrid from (40.7100, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.99265,"subgrid from (40.7100, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.99265,"subgrid from (40.7100, -73.9950)",True,0,
+40.7118,-73.99735,"subgrid from (40.7100, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.99735,"subgrid from (40.7100, -73.9950)",True,0,
+40.7118,-73.95765,"subgrid from (40.7100, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.95765,"subgrid from (40.7100, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.96235,"subgrid from (40.7100, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.96235,"subgrid from (40.7100, -73.9600)",True,0,
+40.7118,-73.95265,"subgrid from (40.7100, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.95265,"subgrid from (40.7100, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.95735,"subgrid from (40.7100, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.95735,"subgrid from (40.7100, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.94765,"subgrid from (40.7100, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.94765,"subgrid from (40.7100, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.95235,"subgrid from (40.7100, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.95235,"subgrid from (40.7100, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7118,-73.94265,"subgrid from (40.7100, -73.9450)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.94265,"subgrid from (40.7100, -73.9450)",True,0,
+40.7118,-73.94735,"subgrid from (40.7100, -73.9450)",True,0,Too many results: likely to exceed 240 limit
+40.7082,-73.94735,"subgrid from (40.7100, -73.9450)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.01265,"subgrid from (40.7150, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.01265,"subgrid from (40.7150, -74.0150)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.01735,"subgrid from (40.7150, -74.0150)",True,0,
+40.7132,-74.01735,"subgrid from (40.7150, -74.0150)",True,0,
+40.7168,-74.00765,"subgrid from (40.7150, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.00765,"subgrid from (40.7150, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.01235,"subgrid from (40.7150, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.01235,"subgrid from (40.7150, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.00265,"subgrid from (40.7150, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.00265,"subgrid from (40.7150, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.00735,"subgrid from (40.7150, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.00735,"subgrid from (40.7150, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.99765,"subgrid from (40.7150, -74.0000)",True,6,Too many results: likely to exceed 240 limit
+40.7132,-73.99765,"subgrid from (40.7150, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-74.00235,"subgrid from (40.7150, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-74.00235,"subgrid from (40.7150, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.99265,"subgrid from (40.7150, -73.9950)",True,19,Too many results: likely to exceed 240 limit
+40.7132,-73.99265,"subgrid from (40.7150, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.99735,"subgrid from (40.7150, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.99735,"subgrid from (40.7150, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.98765,"subgrid from (40.7150, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.98765,"subgrid from (40.7150, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.99235,"subgrid from (40.7150, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.99235,"subgrid from (40.7150, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.98265,"subgrid from (40.7150, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.98265,"subgrid from (40.7150, -73.9850)",True,0,
+40.7168,-73.98735,"subgrid from (40.7150, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.98735,"subgrid from (40.7150, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.96265,"subgrid from (40.7150, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.96265,"subgrid from (40.7150, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.96735,"subgrid from (40.7150, -73.9650)",True,0,
+40.7132,-73.96735,"subgrid from (40.7150, -73.9650)",True,0,
+40.7168,-73.95765,"subgrid from (40.7150, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.95765,"subgrid from (40.7150, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.96235,"subgrid from (40.7150, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.96235,"subgrid from (40.7150, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.95265,"subgrid from (40.7150, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.95265,"subgrid from (40.7150, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.95735,"subgrid from (40.7150, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.95735,"subgrid from (40.7150, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.94765,"subgrid from (40.7150, -73.9500)",True,0,
+40.7132,-73.94765,"subgrid from (40.7150, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.95235,"subgrid from (40.7150, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7132,-73.95235,"subgrid from (40.7150, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7168,-73.94265,"subgrid from (40.7150, -73.9450)",True,0,
+40.7132,-73.94265,"subgrid from (40.7150, -73.9450)",True,0,
+40.7168,-73.94735,"subgrid from (40.7150, -73.9450)",True,0,
+40.7132,-73.94735,"subgrid from (40.7150, -73.9450)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-74.00765,"subgrid from (40.7200, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-74.00765,"subgrid from (40.7200, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-74.01235,"subgrid from (40.7200, -74.0100)",True,0,
+40.7182,-74.01235,"subgrid from (40.7200, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-74.00265,"subgrid from (40.7200, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-74.00265,"subgrid from (40.7200, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-74.00735,"subgrid from (40.7200, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-74.00735,"subgrid from (40.7200, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.99765,"subgrid from (40.7200, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.99765,"subgrid from (40.7200, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-74.00235,"subgrid from (40.7200, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-74.00235,"subgrid from (40.7200, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.99265,"subgrid from (40.7200, -73.9950)",True,3,Too many results: likely to exceed 240 limit
+40.7182,-73.99265,"subgrid from (40.7200, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.99735,"subgrid from (40.7200, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.99735,"subgrid from (40.7200, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.98765,"subgrid from (40.7200, -73.9900)",True,8,Too many results: likely to exceed 240 limit
+40.7182,-73.98765,"subgrid from (40.7200, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.99235,"subgrid from (40.7200, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.99235,"subgrid from (40.7200, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.98265,"subgrid from (40.7200, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.98265,"subgrid from (40.7200, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.98735,"subgrid from (40.7200, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.98735,"subgrid from (40.7200, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.97765,"subgrid from (40.7200, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.97765,"subgrid from (40.7200, -73.9800)",True,0,
+40.7218,-73.98235,"subgrid from (40.7200, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.98235,"subgrid from (40.7200, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.95765,"subgrid from (40.7200, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.95765,"subgrid from (40.7200, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.96235,"subgrid from (40.7200, -73.9600)",True,0,
+40.7182,-73.96235,"subgrid from (40.7200, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.95265,"subgrid from (40.7200, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.95265,"subgrid from (40.7200, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.95735,"subgrid from (40.7200, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.95735,"subgrid from (40.7200, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7218,-73.94765,"subgrid from (40.7200, -73.9500)",True,0,
+40.7182,-73.94765,"subgrid from (40.7200, -73.9500)",True,0,
+40.7218,-73.95235,"subgrid from (40.7200, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7182,-73.95235,"subgrid from (40.7200, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-74.00765,"subgrid from (40.7250, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-74.00765,"subgrid from (40.7250, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-74.01235,"subgrid from (40.7250, -74.0100)",True,0,
+40.7232,-74.01235,"subgrid from (40.7250, -74.0100)",True,0,
+40.7268,-74.00265,"subgrid from (40.7250, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-74.00265,"subgrid from (40.7250, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-74.00735,"subgrid from (40.7250, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-74.00735,"subgrid from (40.7250, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.99765,"subgrid from (40.7250, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.99765,"subgrid from (40.7250, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-74.00235,"subgrid from (40.7250, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-74.00235,"subgrid from (40.7250, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.99265,"subgrid from (40.7250, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.99265,"subgrid from (40.7250, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.99735,"subgrid from (40.7250, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.99735,"subgrid from (40.7250, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.98765,"subgrid from (40.7250, -73.9900)",True,3,Too many results: likely to exceed 240 limit
+40.7232,-73.98765,"subgrid from (40.7250, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.99235,"subgrid from (40.7250, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.99235,"subgrid from (40.7250, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.98265,"subgrid from (40.7250, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.98265,"subgrid from (40.7250, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.98735,"subgrid from (40.7250, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.98735,"subgrid from (40.7250, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.97765,"subgrid from (40.7250, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.97765,"subgrid from (40.7250, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.98235,"subgrid from (40.7250, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.98235,"subgrid from (40.7250, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.95265,"subgrid from (40.7250, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.95265,"subgrid from (40.7250, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.95735,"subgrid from (40.7250, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.95735,"subgrid from (40.7250, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7268,-73.94765,"subgrid from (40.7250, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.94765,"subgrid from (40.7250, -73.9500)",True,0,
+40.7268,-73.95235,"subgrid from (40.7250, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7232,-73.95235,"subgrid from (40.7250, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-74.00765,"subgrid from (40.7300, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-74.00765,"subgrid from (40.7300, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-74.01235,"subgrid from (40.7300, -74.0100)",True,0,
+40.7282,-74.01235,"subgrid from (40.7300, -74.0100)",True,0,
+40.7318,-74.00265,"subgrid from (40.7300, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-74.00265,"subgrid from (40.7300, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-74.00735,"subgrid from (40.7300, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-74.00735,"subgrid from (40.7300, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.99765,"subgrid from (40.7300, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.99765,"subgrid from (40.7300, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-74.00235,"subgrid from (40.7300, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-74.00235,"subgrid from (40.7300, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.99265,"subgrid from (40.7300, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.99265,"subgrid from (40.7300, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.99735,"subgrid from (40.7300, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.99735,"subgrid from (40.7300, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.98765,"subgrid from (40.7300, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.98765,"subgrid from (40.7300, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.99235,"subgrid from (40.7300, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.99235,"subgrid from (40.7300, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.98265,"subgrid from (40.7300, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.98265,"subgrid from (40.7300, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.98735,"subgrid from (40.7300, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.98735,"subgrid from (40.7300, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.97765,"subgrid from (40.7300, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.97765,"subgrid from (40.7300, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7318,-73.98235,"subgrid from (40.7300, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7282,-73.98235,"subgrid from (40.7300, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-74.00765,"subgrid from (40.7350, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-74.00765,"subgrid from (40.7350, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-74.01235,"subgrid from (40.7350, -74.0100)",True,0,
+40.7332,-74.01235,"subgrid from (40.7350, -74.0100)",True,0,
+40.7368,-74.00265,"subgrid from (40.7350, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-74.00265,"subgrid from (40.7350, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-74.00735,"subgrid from (40.7350, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-74.00735,"subgrid from (40.7350, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.99765,"subgrid from (40.7350, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.99765,"subgrid from (40.7350, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-74.00235,"subgrid from (40.7350, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-74.00235,"subgrid from (40.7350, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.99265,"subgrid from (40.7350, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.99265,"subgrid from (40.7350, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.99735,"subgrid from (40.7350, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.99735,"subgrid from (40.7350, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.98765,"subgrid from (40.7350, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.98765,"subgrid from (40.7350, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.99235,"subgrid from (40.7350, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.99235,"subgrid from (40.7350, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.98265,"subgrid from (40.7350, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.98265,"subgrid from (40.7350, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.98735,"subgrid from (40.7350, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.98735,"subgrid from (40.7350, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.97765,"subgrid from (40.7350, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.97765,"subgrid from (40.7350, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7368,-73.98235,"subgrid from (40.7350, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7332,-73.98235,"subgrid from (40.7350, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-74.00765,"subgrid from (40.7400, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-74.00765,"subgrid from (40.7400, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-74.01235,"subgrid from (40.7400, -74.0100)",True,0,
+40.7382,-74.01235,"subgrid from (40.7400, -74.0100)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-74.00265,"subgrid from (40.7400, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-74.00265,"subgrid from (40.7400, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-74.00735,"subgrid from (40.7400, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-74.00735,"subgrid from (40.7400, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.99765,"subgrid from (40.7400, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.99765,"subgrid from (40.7400, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-74.00235,"subgrid from (40.7400, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-74.00235,"subgrid from (40.7400, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.99265,"subgrid from (40.7400, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.99265,"subgrid from (40.7400, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.99735,"subgrid from (40.7400, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.99735,"subgrid from (40.7400, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.98765,"subgrid from (40.7400, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.98765,"subgrid from (40.7400, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.99235,"subgrid from (40.7400, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.99235,"subgrid from (40.7400, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.98265,"subgrid from (40.7400, -73.9850)",True,7,Too many results: likely to exceed 240 limit
+40.7382,-73.98265,"subgrid from (40.7400, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.98735,"subgrid from (40.7400, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.98735,"subgrid from (40.7400, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.97765,"subgrid from (40.7400, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.97765,"subgrid from (40.7400, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.98235,"subgrid from (40.7400, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.98235,"subgrid from (40.7400, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7418,-73.97265,"subgrid from (40.7400, -73.9750)",True,0,
+40.7382,-73.97265,"subgrid from (40.7400, -73.9750)",True,0,
+40.7418,-73.97735,"subgrid from (40.7400, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7382,-73.97735,"subgrid from (40.7400, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-74.00265,"subgrid from (40.7450, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-74.00265,"subgrid from (40.7450, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-74.00735,"subgrid from (40.7450, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-74.00735,"subgrid from (40.7450, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.99765,"subgrid from (40.7450, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.99765,"subgrid from (40.7450, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-74.00235,"subgrid from (40.7450, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-74.00235,"subgrid from (40.7450, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.99265,"subgrid from (40.7450, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.99265,"subgrid from (40.7450, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.99735,"subgrid from (40.7450, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.99735,"subgrid from (40.7450, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.98765,"subgrid from (40.7450, -73.9900)",True,51,Too many results: likely to exceed 240 limit
+40.7432,-73.98765,"subgrid from (40.7450, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.99235,"subgrid from (40.7450, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.99235,"subgrid from (40.7450, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.98265,"subgrid from (40.7450, -73.9850)",True,8,Too many results: likely to exceed 240 limit
+40.7432,-73.98265,"subgrid from (40.7450, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.98735,"subgrid from (40.7450, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.98735,"subgrid from (40.7450, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.97765,"subgrid from (40.7450, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.97765,"subgrid from (40.7450, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.98235,"subgrid from (40.7450, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.98235,"subgrid from (40.7450, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.97265,"subgrid from (40.7450, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.97265,"subgrid from (40.7450, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.97735,"subgrid from (40.7450, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7432,-73.97735,"subgrid from (40.7450, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.92265,"subgrid from (40.7450, -73.9250)",True,10,
+40.7432,-73.92265,"subgrid from (40.7450, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7468,-73.92735,"subgrid from (40.7450, -73.9250)",True,0,
+40.7432,-73.92735,"subgrid from (40.7450, -73.9250)",True,0,
+40.7518,-74.00265,"subgrid from (40.7500, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-74.00265,"subgrid from (40.7500, -74.0050)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-74.00735,"subgrid from (40.7500, -74.0050)",True,0,
+40.7482,-74.00735,"subgrid from (40.7500, -74.0050)",True,0,
+40.7518,-73.99765,"subgrid from (40.7500, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.99765,"subgrid from (40.7500, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-74.00235,"subgrid from (40.7500, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-74.00235,"subgrid from (40.7500, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.99265,"subgrid from (40.7500, -73.9950)",True,9,Too many results: likely to exceed 240 limit
+40.7482,-73.99265,"subgrid from (40.7500, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.99735,"subgrid from (40.7500, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.99735,"subgrid from (40.7500, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.98765,"subgrid from (40.7500, -73.9900)",True,28,Too many results: likely to exceed 240 limit
+40.7482,-73.98765,"subgrid from (40.7500, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.99235,"subgrid from (40.7500, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.99235,"subgrid from (40.7500, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.98265,"subgrid from (40.7500, -73.9850)",True,9,Too many results: likely to exceed 240 limit
+40.7482,-73.98265,"subgrid from (40.7500, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.98735,"subgrid from (40.7500, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.98735,"subgrid from (40.7500, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.97765,"subgrid from (40.7500, -73.9800)",True,19,Too many results: likely to exceed 240 limit
+40.7482,-73.97765,"subgrid from (40.7500, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.98235,"subgrid from (40.7500, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.98235,"subgrid from (40.7500, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.97265,"subgrid from (40.7500, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.97265,"subgrid from (40.7500, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.97735,"subgrid from (40.7500, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.97735,"subgrid from (40.7500, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.96765,"subgrid from (40.7500, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.96765,"subgrid from (40.7500, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7518,-73.97235,"subgrid from (40.7500, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7482,-73.97235,"subgrid from (40.7500, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.99765,"subgrid from (40.7550, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.99765,"subgrid from (40.7550, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-74.00235,"subgrid from (40.7550, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-74.00235,"subgrid from (40.7550, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.99265,"subgrid from (40.7550, -73.9950)",True,12,Too many results: likely to exceed 240 limit
+40.7532,-73.99265,"subgrid from (40.7550, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.99735,"subgrid from (40.7550, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.99735,"subgrid from (40.7550, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.98765,"subgrid from (40.7550, -73.9900)",True,27,Too many results: likely to exceed 240 limit
+40.7532,-73.98765,"subgrid from (40.7550, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.99235,"subgrid from (40.7550, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.99235,"subgrid from (40.7550, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.98265,"subgrid from (40.7550, -73.9850)",True,18,Too many results: likely to exceed 240 limit
+40.7532,-73.98265,"subgrid from (40.7550, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.98735,"subgrid from (40.7550, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.98735,"subgrid from (40.7550, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.97765,"subgrid from (40.7550, -73.9800)",True,7,Too many results: likely to exceed 240 limit
+40.7532,-73.97765,"subgrid from (40.7550, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.98235,"subgrid from (40.7550, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.98235,"subgrid from (40.7550, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.97265,"subgrid from (40.7550, -73.9750)",True,10,Too many results: likely to exceed 240 limit
+40.7532,-73.97265,"subgrid from (40.7550, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.97735,"subgrid from (40.7550, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.97735,"subgrid from (40.7550, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.96765,"subgrid from (40.7550, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.96765,"subgrid from (40.7550, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.97235,"subgrid from (40.7550, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.97235,"subgrid from (40.7550, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.96265,"subgrid from (40.7550, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.96265,"subgrid from (40.7550, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.96735,"subgrid from (40.7550, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.96735,"subgrid from (40.7550, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7568,-73.92265,"subgrid from (40.7550, -73.9250)",True,21,Too many results: likely to exceed 240 limit
+40.7532,-73.92265,"subgrid from (40.7550, -73.9250)",True,9,
+40.7568,-73.92735,"subgrid from (40.7550, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7532,-73.92735,"subgrid from (40.7550, -73.9250)",True,0,
+40.7618,-73.99765,"subgrid from (40.7600, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.99765,"subgrid from (40.7600, -74.0000)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-74.00235,"subgrid from (40.7600, -74.0000)",True,0,
+40.7582,-74.00235,"subgrid from (40.7600, -74.0000)",True,0,
+40.7618,-73.99265,"subgrid from (40.7600, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.99265,"subgrid from (40.7600, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.99735,"subgrid from (40.7600, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.99735,"subgrid from (40.7600, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.98765,"subgrid from (40.7600, -73.9900)",True,11,Too many results: likely to exceed 240 limit
+40.7582,-73.98765,"subgrid from (40.7600, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.99235,"subgrid from (40.7600, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.99235,"subgrid from (40.7600, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.98265,"subgrid from (40.7600, -73.9850)",True,6,Too many results: likely to exceed 240 limit
+40.7582,-73.98265,"subgrid from (40.7600, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.98735,"subgrid from (40.7600, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.98735,"subgrid from (40.7600, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.97765,"subgrid from (40.7600, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.97765,"subgrid from (40.7600, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.98235,"subgrid from (40.7600, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.98235,"subgrid from (40.7600, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.97265,"subgrid from (40.7600, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.97265,"subgrid from (40.7600, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.97735,"subgrid from (40.7600, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.97735,"subgrid from (40.7600, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.96765,"subgrid from (40.7600, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.96765,"subgrid from (40.7600, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.97235,"subgrid from (40.7600, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.97235,"subgrid from (40.7600, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.96265,"subgrid from (40.7600, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.96265,"subgrid from (40.7600, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.96735,"subgrid from (40.7600, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.96735,"subgrid from (40.7600, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.95765,"subgrid from (40.7600, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.95765,"subgrid from (40.7600, -73.9600)",True,0,
+40.7618,-73.96235,"subgrid from (40.7600, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.96235,"subgrid from (40.7600, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.92765,"subgrid from (40.7600, -73.9300)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.92765,"subgrid from (40.7600, -73.9300)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.93235,"subgrid from (40.7600, -73.9300)",True,0,
+40.7582,-73.93235,"subgrid from (40.7600, -73.9300)",True,0,
+40.7618,-73.92265,"subgrid from (40.7600, -73.9250)",True,16,Too many results: likely to exceed 240 limit
+40.7582,-73.92265,"subgrid from (40.7600, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7618,-73.92735,"subgrid from (40.7600, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7582,-73.92735,"subgrid from (40.7600, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.99265,"subgrid from (40.7650, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.99265,"subgrid from (40.7650, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.99735,"subgrid from (40.7650, -73.9950)",True,0,
+40.7632,-73.99735,"subgrid from (40.7650, -73.9950)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.98765,"subgrid from (40.7650, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.98765,"subgrid from (40.7650, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.99235,"subgrid from (40.7650, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.99235,"subgrid from (40.7650, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.98265,"subgrid from (40.7650, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.98265,"subgrid from (40.7650, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.98735,"subgrid from (40.7650, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.98735,"subgrid from (40.7650, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.97765,"subgrid from (40.7650, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.97765,"subgrid from (40.7650, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.98235,"subgrid from (40.7650, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.98235,"subgrid from (40.7650, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.97265,"subgrid from (40.7650, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.97265,"subgrid from (40.7650, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.97735,"subgrid from (40.7650, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.97735,"subgrid from (40.7650, -73.9750)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.96765,"subgrid from (40.7650, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.96765,"subgrid from (40.7650, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.97235,"subgrid from (40.7650, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.97235,"subgrid from (40.7650, -73.9700)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.96265,"subgrid from (40.7650, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.96265,"subgrid from (40.7650, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.96735,"subgrid from (40.7650, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.96735,"subgrid from (40.7650, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.95765,"subgrid from (40.7650, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.95765,"subgrid from (40.7650, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.96235,"subgrid from (40.7650, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.96235,"subgrid from (40.7650, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.95265,"subgrid from (40.7650, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.95265,"subgrid from (40.7650, -73.9550)",True,0,
+40.7668,-73.95735,"subgrid from (40.7650, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7632,-73.95735,"subgrid from (40.7650, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.92265,"subgrid from (40.7650, -73.9250)",True,20,Too many results: likely to exceed 240 limit
+40.7632,-73.92265,"subgrid from (40.7650, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7668,-73.92735,"subgrid from (40.7650, -73.9250)",True,0,
+40.7632,-73.92735,"subgrid from (40.7650, -73.9250)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.98765,"subgrid from (40.7700, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.98765,"subgrid from (40.7700, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.99235,"subgrid from (40.7700, -73.9900)",True,0,
+40.7682,-73.99235,"subgrid from (40.7700, -73.9900)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.98265,"subgrid from (40.7700, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.98265,"subgrid from (40.7700, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.98735,"subgrid from (40.7700, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.98735,"subgrid from (40.7700, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.97765,"subgrid from (40.7700, -73.9800)",True,0,
+40.7682,-73.97765,"subgrid from (40.7700, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.98235,"subgrid from (40.7700, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.98235,"subgrid from (40.7700, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.96265,"subgrid from (40.7700, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.96265,"subgrid from (40.7700, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.96735,"subgrid from (40.7700, -73.9650)",True,0,
+40.7682,-73.96735,"subgrid from (40.7700, -73.9650)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.95765,"subgrid from (40.7700, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.95765,"subgrid from (40.7700, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.96235,"subgrid from (40.7700, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.96235,"subgrid from (40.7700, -73.9600)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.95265,"subgrid from (40.7700, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.95265,"subgrid from (40.7700, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.95735,"subgrid from (40.7700, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.95735,"subgrid from (40.7700, -73.9550)",True,0,Too many results: likely to exceed 240 limit
+40.7718,-73.94765,"subgrid from (40.7700, -73.9500)",True,0,
+40.7682,-73.94765,"subgrid from (40.7700, -73.9500)",True,0,
+40.7718,-73.95235,"subgrid from (40.7700, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7682,-73.95235,"subgrid from (40.7700, -73.9500)",True,0,Too many results: likely to exceed 240 limit
+40.7768,-73.98265,"subgrid from (40.7750, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7732,-73.98265,"subgrid from (40.7750, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7768,-73.98735,"subgrid from (40.7750, -73.9850)",True,0,
+40.7732,-73.98735,"subgrid from (40.7750, -73.9850)",True,0,Too many results: likely to exceed 240 limit
+40.7768,-73.97765,"subgrid from (40.7750, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7732,-73.97765,"subgrid from (40.7750, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7768,-73.98235,"subgrid from (40.7750, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7732,-73.98235,"subgrid from (40.7750, -73.9800)",True,0,Too many results: likely to exceed 240 limit
+40.7768,-73.95765,"subgrid from (40.7750, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.95765,"subgrid from (40.7750, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7768,-73.96235,"subgrid from (40.7750, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.96235,"subgrid from (40.7750, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7768,-73.95265,"subgrid from (40.7750, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.95265,"subgrid from (40.7750, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7768,-73.95735,"subgrid from (40.7750, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.95735,"subgrid from (40.7750, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7768,-73.94765,"subgrid from (40.7750, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.94765,"subgrid from (40.7750, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7768,-73.95235,"subgrid from (40.7750, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7732,-73.95235,"subgrid from (40.7750, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.98265,"subgrid from (40.7800, -73.9850)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.98265,"subgrid from (40.7800, -73.9850)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.98735,"subgrid from (40.7800, -73.9850)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.98735,"subgrid from (40.7800, -73.9850)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.97765,"subgrid from (40.7800, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.97765,"subgrid from (40.7800, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.98235,"subgrid from (40.7800, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.98235,"subgrid from (40.7800, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.97265,"subgrid from (40.7800, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.97265,"subgrid from (40.7800, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.97735,"subgrid from (40.7800, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.97735,"subgrid from (40.7800, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.95765,"subgrid from (40.7800, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.95765,"subgrid from (40.7800, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.96235,"subgrid from (40.7800, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.96235,"subgrid from (40.7800, -73.9600)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.95265,"subgrid from (40.7800, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.95265,"subgrid from (40.7800, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.95735,"subgrid from (40.7800, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.95735,"subgrid from (40.7800, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.94765,"subgrid from (40.7800, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.94765,"subgrid from (40.7800, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7818,-73.95235,"subgrid from (40.7800, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7782,-73.95235,"subgrid from (40.7800, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.97765,"subgrid from (40.7850, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.97765,"subgrid from (40.7850, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.98235,"subgrid from (40.7850, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.98235,"subgrid from (40.7850, -73.9800)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.97265,"subgrid from (40.7850, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.97265,"subgrid from (40.7850, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.97735,"subgrid from (40.7850, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.97735,"subgrid from (40.7850, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.95265,"subgrid from (40.7850, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.95265,"subgrid from (40.7850, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.95735,"subgrid from (40.7850, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.95735,"subgrid from (40.7850, -73.9550)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.94765,"subgrid from (40.7850, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.94765,"subgrid from (40.7850, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7868,-73.95235,"subgrid from (40.7850, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7832,-73.95235,"subgrid from (40.7850, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.97265,"subgrid from (40.7900, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.97265,"subgrid from (40.7900, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.97735,"subgrid from (40.7900, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.97735,"subgrid from (40.7900, -73.9750)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.96765,"subgrid from (40.7900, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.96765,"subgrid from (40.7900, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.97235,"subgrid from (40.7900, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.97235,"subgrid from (40.7900, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.94265,"subgrid from (40.7900, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.94265,"subgrid from (40.7900, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7918,-73.94735,"subgrid from (40.7900, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7882,-73.94735,"subgrid from (40.7900, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.96765,"subgrid from (40.7950, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.96765,"subgrid from (40.7950, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.97235,"subgrid from (40.7950, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.97235,"subgrid from (40.7950, -73.9700)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.94265,"subgrid from (40.7950, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.94265,"subgrid from (40.7950, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.94735,"subgrid from (40.7950, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.94735,"subgrid from (40.7950, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.93765,"subgrid from (40.7950, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.93765,"subgrid from (40.7950, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7968,-73.94235,"subgrid from (40.7950, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7932,-73.94235,"subgrid from (40.7950, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8018,-73.96265,"subgrid from (40.8000, -73.9650)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7982,-73.96265,"subgrid from (40.8000, -73.9650)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8018,-73.96735,"subgrid from (40.8000, -73.9650)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7982,-73.96735,"subgrid from (40.8000, -73.9650)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8018,-73.93765,"subgrid from (40.8000, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7982,-73.93765,"subgrid from (40.8000, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8018,-73.94235,"subgrid from (40.8000, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.7982,-73.94235,"subgrid from (40.8000, -73.9400)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8118,-73.94765,"subgrid from (40.8100, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8082,-73.94765,"subgrid from (40.8100, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8118,-73.95235,"subgrid from (40.8100, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8082,-73.95235,"subgrid from (40.8100, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8268,-73.94765,"subgrid from (40.8250, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8232,-73.94765,"subgrid from (40.8250, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8268,-73.95235,"subgrid from (40.8250, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8232,-73.95235,"subgrid from (40.8250, -73.9500)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8268,-73.94265,"subgrid from (40.8250, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8232,-73.94265,"subgrid from (40.8250, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8268,-73.94735,"subgrid from (40.8250, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"
+40.8232,-73.94735,"subgrid from (40.8250, -73.9450)",True,0,"429: {""error"": {""code"": ""ACCESS_LIMIT_REACHED"", ""description"": ""You've reached the access limit for this client. See instructions for requesting a higher access limit at https://docs.developer.yelp.com/docs/fusion-rate-limiting""}}"

@@ -1,0 +1,57 @@
+# Environment files
+.env
+
+# Python cache files
+script/db/__pycache__
+script/fetchers/__pycache__
+
+# Jupyter notebook checkpoints and temp files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Raw or intermediate data folders
+data_preparation/hourly_weather/raw_data.zip
+data_event_cache/
+data_preparation/event_cache/
+data_preparation/prepared_outputs/cache/
+
+# Citi Bike data
+citi_bike/citi_bike_20240401_20250331.csv
+citi_bike/raw_data.zip
+data_preparation/citi_bike/citi_bike_20240401_20250331.csv
+data_preparation/citi_bike/raw_data.zip
+
+# Event data
+event_data_20240401_20250331.csv
+event_location_data_20240401_20250331.csv
+data_preparation/event_data_20240401_20250331.csv
+data_preparation/event_location_data_20240401_20250331.csv
+data_preparation/event_data_20240401_20250331.csv
+
+# Yellow Taxi data
+yellow_taxi/yellow_taxi_20240101_20250331.csv
+data_preparation/yellow_taxi/yellow_taxi_20240101_20250331.csv
+
+# Integrated datasets
+integrated_dataset/
+integrated_dataset.zip
+data_preparation/integrated_dataset/
+model_development/integrated_dataset.zip
+
+# Restaurant data
+data_preparation/restaurant_data_fetching/dataset/
+data_preparation/restaurant_data_fetching/2025-07-01 14:31:37.977953.csv
+data_preparation/inspection/DOHMH_New_York_City_Restaurant_Inspection_Results_20250527.csv
+
+# Model training outputs
+combined_integrated_df.pkl
+combined_light_with_busyness_level.pkl
+combined_with_all_columns_and_busyness_level.pkl
+final_model_dataset.pkl
+grid_restaurant.csv
+
+model_development/combined_integrated_df.pkl
+model_development/combined_light_with_busyness_level.pkl
+model_development/combined_with_all_columns_and_busyness_level.pkl
+model_development/final_model_dataset.pkl
+model_development/grid_restaurant.csv

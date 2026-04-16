@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Environment files
+.env
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# System-specific
+Thumbs.db

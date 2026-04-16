@@ -1,0 +1,4 @@
+# This file contains any files dorker won't run 
+
+# Backend test files
+/app/Backend/tests
