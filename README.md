@@ -1,21 +1,5 @@
 # Forkcast - Smart Restaurant Recommender 👨‍🍳🧑‍🍳
 
-## 👋 About / Role
-
-Personal copy of a collaborative summer project  
-Original repo: [Forkcast-Smart-Restaurant-Recommender](https://github.com/Justetete/Forkcast-Smart-Restaurant-Recommender)
-
-Role: Data Lead  
-Responsible for data strategy and modeling direction across the project, including:
-- Problem formulation and project direction
-- Data sourcing, cleaning, and feature engineering
-- Machine learning model development and optimization
-- Contribution to feature design and UI/UX improvements
-
-Shared with permission from the original authors.
-
----
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,tailwindcss,vite,npm,python,flask,postgres,git,postman,figma,docker&theme=light" />
@@ -27,54 +11,49 @@ Shared with permission from the original authors.
 ## 🌟 Project Overview
 **Forkcast - a smart restaurant busyness recommender** is a web-based application designed to help users make smarter dining decisions in Manhattan, NYC. Whether you're an individual user looking for a quiet lunch spot or a group planning a dinner gathering, our app predicts real-time and future restaurant busyness levels by combining live data analytics, user preferences, and contextual factors such as accessibility and cuisine type.
 
-🌏 Website: https://smartrr.dpdns.org/ or https://www.smartrr.dpdns.org/
-
----
+Deployment is currently offline due to hosting cost constraints. The full source code, documentation, and setup instructions are available in this repository.
 
 ## 📋 Table of Contents
-<details open>
-  <summary>Table of Contents</summary>
-  
-  - [👩‍💻🧑‍💻 Group Members](#group-members)
-  - [📑 Teamwork documents](#Teamwork-documents)
-  - [✨ Features](#features)
-  - [🚀 Getting Started](#Getting-Started)
-    - [💾 Prerequisites](#-prerequisites)
-    - [🔧 Installation](#-installation)
-    - [🛠️ Configuration](#️-configuration)
-  - [💻 Usage](#usage)
-  - [🧬 Testing](#testing)
-  - [⚙️ Technology Stack](#technology-stack)
-  - [🏗️ Project Structure](#project-structure)
-  - [🤝 Contributing](#-contributing)
-  - [📝 License](#license)
-</details>
+- [Project Overview](#-project-overview)
+- [My Role](#-my-role)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#-prerequisites)
+  - [Installation](#-installation)
+  - [Configuration](#️-configuration)
+- [Usage](#-usage)
+- [Testing](#-testing)
+- [Technology Stack](#️-technology-stack)
+- [Project Structure](#️-project-structure)
+- [Teamwork Documents](#-teamwork-documents)
+- [Group Members](#-group-members)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 
-## 👩‍💻🧑‍💻 Group Members
-- Bingzheng Lyu
-- Xiaoxia Jin
-- Wan-Hua Hsieh
-- Xinchi Jian
-- Eli Young
-- Aadhithya Ganesh
+## 👋 My Role
 
----
-## 📑 Teamwork documents
-- [Google docs](https://drive.google.com/drive/folders/1L_c5XzWzfr3srVnpK_uKYDhjhnrImVYq?usp=drive_link)
-- [Github Workflow](documents/Github_Workflow.md)
-- [Data team document](app/data/README.Md)
-- [Backend team document](app/Backend/README.md)
-- [Frontend team document](app/Frontend/README.md)
-- [API document](app/Backend/APIdoc.md)
+Personal copy of a collaborative summer project  
+Original repo: [Forkcast-Smart-Restaurant-Recommender](https://github.com/Justetete/Forkcast-Smart-Restaurant-Recommender)
+
+**Role: Data Lead**
+
+Led data strategy and modeling across the project, including:
+
+- Problem formulation and project direction  
+- Data sourcing, cleaning, and feature engineering  
+- Machine learning model development and optimization  
+- Collaboration on feature design and UI/UX improvements  
+
+Shared with permission from the original authors.
 
 ---
+
 ## ✨ Features
-- **Busyness predection**
+- **Busyness prediction**
 - **Group dining coordination**
 - **Restaurant comparison dashboard**
 
----
 ## 🚀 Getting Started
 
 ### 💾 Prerequisites
@@ -92,14 +71,14 @@ git clone git@github.com:Justetete/COMP47360_Summer_Project_Group5.git
 ```bash
 cd COMP47360_Summer_Project_Group5/app
 ```
-3. Build docker container
+3. Build docker container:
 ```bash
 docker-compose build --no-cache
 ```
 
 
 ### 🛠️ Configuration
-To configure the project, you need to create a `.env` file in `/app` diretory, and add the following environment variables:
+To configure the project, you need to create a `.env` file in `/app` directory, and add the following environment variables:
 ```env
 GOOGLE_API_KEY=
 YELP_FUSION_API_KEY=
@@ -110,49 +89,53 @@ SUPABASE_URL=
 SUPABASE_KEY=
 DATABASE_URL=
 ```
----
+
 
 ## 💻 Usage
 Here's how to use **Forkcast**:
 
-1. Runt the container you built:
+1. Run the container you built:
 ```bash
 docker-compose up  # 
 
 # or running in the background
 docker-compose up -d  
 ```
-5. Access the application at `http://localhost`
-
----
+2. Access the application at `http://localhost`
 
 ## 🧬 Testing
 
 To run the tests, use the following command:
 1. For Backend testing:
 ```bash
-pip install -r app/Backend/requirements.txt # Make sure your virtual environment is active and required packages installed:
-
-pytest -v # pytest app/
+pip install -r app/Backend/requirements.txt 
+pytest -v
 ```
+Make sure your virtual environment is active and the required packages are installed.
+
 2. For Frontend testing:
 ```bash
 npm test
 ```
 
-More details about testing, Checkout the testing report:
-- [Unit Tests](app/Backend/tests/unit/readme.md)
-- [Integrate Tests](app/Backend/tests/integration/readme)
+For more details, see the testing reports:
+- [Unit Tests](app/Backend/tests/unit/README.md)
+- [Integration Tests](app/Backend/tests/integration/README.md)
 
----
+## ⚙️ Technology Stack
+- Frontend: React, JavaScript, HTML, CSS, Tailwind CSS, Vite
+- Backend: Flask, Python
+- Database: PostgreSQL
+- Tools: Docker, Git, Postman, Figma
+
 ## 🏗️ Project Structure
 <details>
-  <summary>Projec Structure</summary>
+  <summary>Project Structure</summary>
   
   ```md
   Smart Restaurant Recommender repo/dev branch/
   ├── app/
-  │	  ├── Frontend/        # Details seen the README.md inside Frontend Folder
+  │	  ├── Frontend/        # See the README.md inside the Frontend folder for details
   │	  ├── Backend/
   │	  │	  ├── app/
   │   │   │   ├── __init__.py               # Flask app initialization and Blueprint registration
@@ -167,12 +150,12 @@ More details about testing, Checkout the testing report:
   │   │   │   │   ├── main_utils.py
   │   │   │   │   ├── personal_utils.py
   │   │   │   │   ├── group_utils.py
-  │   │   │   │   └── comparison_utils.py
+  │   │   │   │   ├── comparison_utils.py
   │   │   │   │   └── authentication_utils.py
   │   │   │   └── tests/    # Scaffolded test cases per module (ready for Sprint 5)
   │   │   │       ├── conftest.py
   │   │   │       ├── integration/ 
-  │   │   │       │   ├── readme
+  │   │   │       │   ├── README.md
   │   │   │       │   ├── __init__.py
   │   │   │       │   ├── test_comparison_integration.py
   │   │   │       │   ├── test_group_integration.py   
@@ -180,7 +163,7 @@ More details about testing, Checkout the testing report:
   │   │   │       │   └── test_personal_integration.py 
   │   │   │       └── unit/
   │   │   │           ├── __init__.py
-  │   │   │           ├── readme.md
+  │   │   │           ├── README.md
   │   │   │           ├── test_auth.py
   │   │   │           ├── test_comparison_unit.py   
   │   │   │           ├── test_group_unit.py 
@@ -231,7 +214,7 @@ More details about testing, Checkout the testing report:
   │   │   │   └── model                             # Model used for live prediction
   │   │   ├── environment.yml                       # Conda environment definition file
   │   │   ├── example.env                           # Template of environment variables
-  │   │	  └── README.Md                             # Documentation for the data module
+  │   │	  └── README.md                             # Documentation for the data module
   │	  └── nginx/
   │       ├── default.conf
   │       └── Dockerfile
@@ -248,12 +231,27 @@ More details about testing, Checkout the testing report:
   │
   ├── .gitignore                                    # Ignored files for repo
   ├── .dockerignore                                 # Ignored docker files for creating docker images
-  ├── LISENCE
+  ├── LICENSE
   └── README.md
   ```
 </details>
 
----
+
+## 📑 Teamwork documents
+- [Google docs](https://drive.google.com/drive/folders/1L_c5XzWzfr3srVnpK_uKYDhjhnrImVYq?usp=drive_link)
+- [Github Workflow](documents/Github_Workflow.md)
+- [Data team document](app/data/README.md)
+- [Backend team document](app/Backend/README.md)
+- [Frontend team document](app/Frontend/README.md)
+- [API document](app/Backend/APIdoc.md)
+
+## 👩‍💻🧑‍💻 Group Members
+- Bingzheng Lyu
+- Xiaoxia Jin
+- Wan-Hua Hsieh
+- Xinchi Jian
+- Eli Young
+- Aadhithya Ganesh
 
 ## 🤝 Contributing
 We welcome contributions! 🎉 If you'd like to contribute, please follow these steps:
@@ -276,8 +274,6 @@ We welcome contributions! 🎉 If you'd like to contribute, please follow these 
    ```
 
 5. Open a pull request. 🚀
-
----
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).

@@ -87,7 +87,7 @@ Backend/
 │   ├── authentication/
 │   │   ├── authentication.py
 │   │   ├── test_auth
-│   │   └── readme
+│   │   └── README.md
 │
 │   ├── routes/
 │   │   ├── main_routes.py
@@ -110,7 +110,7 @@ Backend/
 │
 │   └── integration/
 │       ├── __init__.py
-│       ├── readme
+│       ├── README.md
 │       ├── test_group_integration.py
 │       ├── test_personal_integration.py
 │       ├── test_main_integration.py
