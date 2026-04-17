@@ -1,29 +1,49 @@
 # Forkcast - Smart Restaurant Recommender 👨‍🍳🧑‍🍳
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,tailwindcss,vite,npm,python,flask,postgres,git,postman,figma,docker&theme=light" />
-  </a>
-</p>
+Web-based system for predicting restaurant busyness in Manhattan using data analytics and machine learning, integrating real-time data, user preferences, and contextual features.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Role](https://img.shields.io/badge/Role-Data%20Lead-green)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Flask%20%7C%20PostgreSQL-orange)
+![Status](https://img.shields.io/badge/Status-Reproducible%20%7C%20Deployment%20Paused-blue)
+
+## 🔗 Original Project
+This repository is a personal version of a collaborative summer project.
+
+Original repository: [Forkcast-Smart-Restaurant-Recommender](https://github.com/Justetete/Forkcast-Smart-Restaurant-Recommender)
+
+Shared with permission from the original authors.
+
+## 🚀 My Contribution
+**Role: Data Lead**
+
+- Defined problem formulation and overall data strategy  
+- Led data sourcing, cleaning, and feature engineering pipeline  
+- Developed and optimized machine learning models for busyness prediction  
+- Designed product features based on data insights  
+- Collaborated with frontend and backend teams on integration and UX  
+
+## 📊 Key Results
+- Built a predictive system for real-time and future restaurant busyness  
+- Integrated multiple data sources (weather, location, user preferences)  
+- Enabled both individual and group-based dining recommendations  
+- Supported forecasting up to 5 days ahead  
+
 
 ## 🌟 Project Overview
-**Forkcast - a smart restaurant busyness recommender** is a web-based application designed to help users make smarter dining decisions in Manhattan, NYC. Whether you're an individual user looking for a quiet lunch spot or a group planning a dinner gathering, our app predicts real-time and future restaurant busyness levels by combining live data analytics, user preferences, and contextual factors such as accessibility and cuisine type.
+Forkcast is a web-based application designed to help users make smarter dining decisions in Manhattan, NYC.
 
-Deployment is currently offline due to hosting cost constraints. The full source code, documentation, and setup instructions are available in this repository.
+It predicts real-time and future restaurant busyness levels by combining live data analytics, machine learning models, and contextual factors such as accessibility, cuisine type, and weather conditions.
+
+Deployment is currently paused to reduce hosting costs. The full source code and setup instructions are available in this repository.
 
 ## 📋 Table of Contents
-- [Project Overview](#-project-overview)
-- [My Role](#-my-role)
 - [Features](#-features)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Configuration](#️-configuration)
-- [Usage](#-usage)
-- [Testing](#-testing)
 - [Technology Stack](#️-technology-stack)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+- [Testing](#-testing)
 - [Project Structure](#️-project-structure)
 - [Teamwork Documents](#-teamwork-documents)
 - [Group Members](#-group-members)
@@ -31,102 +51,66 @@ Deployment is currently offline due to hosting cost constraints. The full source
 - [License](#-license)
 
 
-## 👋 My Role
-
-Personal copy of a collaborative summer project  
-Original repo: [Forkcast-Smart-Restaurant-Recommender](https://github.com/Justetete/Forkcast-Smart-Restaurant-Recommender)
-
-**Role: Data Lead**
-
-Led data strategy and modeling across the project, including:
-
-- Problem formulation and project direction  
-- Data sourcing, cleaning, and feature engineering  
-- Machine learning model development and optimization  
-- Collaboration on feature design and UI/UX improvements  
-
-Shared with permission from the original authors.
-
----
-
 ## ✨ Features
-- **Busyness prediction**
-- **Group dining coordination**
-- **Restaurant comparison dashboard**
+- 📊 Busyness prediction (real-time + future)
+- 👥 Group dining coordination
+- 📍 Restaurant comparison dashboard
+
+
+## ⚙️ Technology Stack
+- **Frontend:** React, JavaScript, Tailwind CSS, Vite  
+- **Backend:** Flask (Python)  
+- **Database:** PostgreSQL  
+- **Tools:** Docker, Git, Postman, Figma  
 
 ## 🚀 Getting Started
 
-### 💾 Prerequisites
+### Prerequisites
 - Docker: [Get Docker](https://docs.docker.com/get-started/get-docker/)
 
-### 🔧 Installation
-
-To get started with Forkcast, follow these steps:
-
-1. Clone the repository:
+### Installation
 ```bash
-git clone git@github.com:Justetete/COMP47360_Summer_Project_Group5.git
-```
-2. Navigate to the project directory:
-```bash
+git clone https://github.com/Justetete/COMP47360_Summer_Project_Group5.git
 cd COMP47360_Summer_Project_Group5/app
-```
-3. Build docker container:
-```bash
 docker-compose build --no-cache
 ```
 
-
-### 🛠️ Configuration
-To configure the project, you need to create a `.env` file in `/app` directory, and add the following environment variables:
-```env
-GOOGLE_API_KEY=
-YELP_FUSION_API_KEY=
-OPEN_WEATHER_API=
-MAIL=
-PASSWORD=
-SUPABASE_URL=
-SUPABASE_KEY=
-DATABASE_URL=
-```
-
-
-## 💻 Usage
-Here's how to use **Forkcast**:
-
-1. Run the container you built:
-```bash
-docker-compose up  # 
-
-# or running in the background
-docker-compose up -d  
-```
-2. Access the application at `http://localhost`
+### Configuration
+1. Create a `.env` file in `/app`:  
+    ```env
+    GOOGLE_API_KEY=
+    YELP_FUSION_API_KEY=
+    OPEN_WEATHER_API=
+    MAIL=
+    PASSWORD=
+    SUPABASE_URL=
+    SUPABASE_KEY=
+    DATABASE_URL=
+    ```
+2. Run
+    ```bash
+    docker-compose up
+    # or
+    docker-compose up -d
+    ```
+3. Access: `http://localhost`
 
 ## 🧬 Testing
 
-To run the tests, use the following command:
-1. For Backend testing:
+**Backend**
 ```bash
-pip install -r app/Backend/requirements.txt 
+pip install -r app/Backend/requirements.txt
 pytest -v
 ```
-Make sure your virtual environment is active and the required packages are installed.
-
-2. For Frontend testing:
+**Frontend**
 ```bash
 npm test
 ```
 
-For more details, see the testing reports:
+More details:
 - [Unit Tests](app/Backend/tests/unit/README.md)
 - [Integration Tests](app/Backend/tests/integration/README.md)
 
-## ⚙️ Technology Stack
-- Frontend: React, JavaScript, HTML, CSS, Tailwind CSS, Vite
-- Backend: Flask, Python
-- Database: PostgreSQL
-- Tools: Docker, Git, Postman, Figma
 
 ## 🏗️ Project Structure
 <details>
