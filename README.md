@@ -119,74 +119,26 @@ More details:
   ```md
   Smart Restaurant Recommender (dev branch)
   ├── app/
-  │   ├── Frontend/        # See Frontend README for details
-  │   ├── Backend/
+  │   ├── Frontend/        # React-based UI and user interaction
+  │   ├── Backend/         # Flask backend and API services
   │   │   ├── app/
-  │   │   │   ├── __init__.py               # Flask app initialization and Blueprints
-  │   │   │   ├── models.py                 # SQLAlchemy models
-  │   │   │   ├── routes/
-  │   │   │   │   ├── main_routes.py
-  │   │   │   │   ├── personal_routes.py
-  │   │   │   │   ├── group_routes.py
-  │   │   │   │   ├── authentication.py
-  │   │   │   │   └── comparison_routes.py
-  │   │   │   ├── utils/
-  │   │   │   │   ├── main_utils.py
-  │   │   │   │   ├── personal_utils.py
-  │   │   │   │   ├── group_utils.py
-  │   │   │   │   ├── comparison_utils.py
-  │   │   │   │   └── authentication_utils.py
-  │   │   │   └── tests/
-  │   │   │       ├── conftest.py
-  │   │   │       ├── integration/
-  │   │   │       └── unit/
+  │   │   │   ├── models.py        # Database models (SQLAlchemy)
+  │   │   │   ├── routes/          # API endpoints (personal, group, comparison)
+  │   │   │   ├── utils/           # Scoring logic and helper functions
+  │   │   │   └── tests/           # Unit and integration tests
   │   │   ├── Dockerfile
   │   │   ├── requirements.txt
-  │   │   ├── run.py
-  │   │   └── README.md
+  │   │   └── run.py               # Application entry point
   │   │
   │   ├── data/
-  │   │   ├── data_preparation/
-  │   │   │   ├── yellow_taxi/
-  │   │   │   ├── citi_bike/
-  │   │   │   ├── mta_subway/
-  │   │   │   ├── manhattan_grid/
-  │   │   │   ├── bike_subway_grid_overlap/
-  │   │   │   ├── inspection/
-  │   │   │   ├── restaurant_data_fetching/
-  │   │   │   ├── wheelchair_accessibility/
-  │   │   │   ├── event_data/
-  │   │   │   ├── holiday_module/
-  │   │   │   ├── hourly_weather/
-  │   │   │   ├── population/
-  │   │   │   └── prepared_outputs/
-  │   │   │
-  │   │   ├── model_development/
-  │   │   │   ├── notebooks/
-  │   │   │   ├── models/
-  │   │   │   └── datasets/
-  │   │   │
-  │   │   ├── script/
-  │   │   │   ├── db/
-  │   │   │   ├── fetchers/
-  │   │   │   └── model/
-  │   │   │
-  │   │   ├── environment.yml
-  │   │   ├── example.env
-  │   │   └── README.md
+  │   │   ├── data_preparation/    # Data collection and preprocessing pipelines
+  │   │   ├── model_development/   # Model training, evaluation, and artifacts
+  │   │   └── script/              # Data fetching and prediction scripts
   │   │
-  │   └── nginx/
-  │       ├── default.conf
-  │       └── Dockerfile
+  │   └── nginx/                  # Deployment configuration
   │
-  ├── documents/
-  │   ├── tests/
-  │   ├── Github_Workflow.md
-  │   └── System Structure.png
-  │
-  ├── .github/workflows/
-  ├── .gitignore
-  ├── .dockerignore
+  ├── documents/                  # Project docs, workflows, and reports
+  ├── .github/workflows/          # CI/CD pipelines
   ├── LICENSE
   └── README.md
   ```
